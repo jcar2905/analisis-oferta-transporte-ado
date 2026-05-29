@@ -8,7 +8,7 @@ Identificar rutas y horarios con excesos de oferta y demanda insatisfecha para a
 
 ## Pipeline de datos
 
-** SQL -> Python -> Power BI**
+**SQL -> Python -> Power BI**
 
 1. Extracción de datos históricos de corridas con SQL
 2. Limpieza y transformación con Python (pandas)
