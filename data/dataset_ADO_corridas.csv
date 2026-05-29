@@ -47,7 +47,7 @@ ADO-01318,06-04-2024,Saturday,19:00,CDMX-Toluca,Sur,Primera Plus,36,34.0,94.4,19
 ADO-01638,2024-04-29,Monday,08:00,CDMX-Cuernavaca,Norte,OCC,42,35.0,83.3,264.0,9240.0,Baja
 ADO-02185,2024-06-06,Thursday,18:00,CDMX-Querétaro,Sur,Primera Plus,36,19.0,52.8,320.0,6080.0,Baja
 ADO-00809,2024-07-20,Saturday,22:00,CDMX - Toluca,Poniente,Ejecutivo,24,24.0,100.0,198.0,4752.0,Alta
-ADO-01566,01/09/2024,Sunday,07:00,CDMX-cuernavaca,Poniente,ADO GL,48,54.85351014252048,114.278146130251,220.0,10120.0,Baja
+ADO-01566,01/09/2024,Sunday,07:00,CDMX-cuernavaca,Poniente,ADO GL,48,59.800000000000004,95.8,220.0,10120.0,Baja
 ADO-00044,2024-09-24,Tuesday,14:00,cdmx-queretaro,Norte,Primera Plus,36,22.0,61.1,320.0,7040.0,Baja
 ADO-00451,22/02/2024,Thursday,17:00,cdmx-queretaro,Poniente,ADO GL,48,38.0,79.2,352.0,,Baja
 ADO-00782,2024-09-28,Saturday,20:00,CDMX - Puebla,Norte,ADO GL,48,33.0,68.8,336.0,11088.0,Baja
@@ -67,7 +67,7 @@ ADO-01358,2024-02-18,Sunday,16:00,CDMX-cuernavaca,Poniente,OCC,42,37.0,88.1,220.
 ADO-01232,2024-03-02,Saturday,11:00,CDMX-Pachuca,Norte,Ejecutivo,24,16.0,66.7,190.0,3040.0,Baja
 ADO-02429,2024-01-27,Saturday,21:00,CDMX-Puebla,TAPO,Primera Plus,36,35.0,97.2,280.0,9800.0,Alta
 ADO-02091,2024-06-17,Monday,14:00,CDMX-Toluca,TAPO,ADO GL,48,33.0,68.8,180.0,5940.0,Baja
-ADO-00737,2024-09-12,Thursday,22:00,CDMX - Puebla,Sur,ADO GL,48,0.0,66.7,280.0,8960.0,Baja
+ADO-00737,2024-09-12,Thursday,22:00,CDMX - Puebla,Sur,ADO GL,48,32.0,66.7,280.0,8960.0,Baja
 ADO-00531,2024-02-14,Wednesday,21:00,CDMX-Queretaro,TAPO,Primera Plus,36,26.0,72.2,320.0,8320.0,Baja
 ADO-02485,2024-10-08,Tuesday,08:00,CDMX-Tlaxcala,Observatorio,ADO GL,48,35.0,72.9,228.0,7980.0,Baja
 ADO-00481,2024/10/29,Tuesday,12:00,CDMX - Toluca,Poniente,Primera Plus,36,22.0,61.1,180.0,3960.0,Baja
@@ -83,7 +83,7 @@ ADO-02131,2024-05-09,Thursday,08:00,CDMX - Toluca,Norte,Primera Plus,36,30.0,83.
 ADO-02329,2024/04/10,Wednesday,17:00,CDMX - Toluca,Sur,ADO GL,48,42.0,87.5,180.0,7560.0,Baja
 ADO-01972,2024-11-06,Wednesday,06:00,CDMX-Pachuca,Sur,,42,12.0,28.6,180.5,2166.0,Baja
 ADO-00252,2024-06-22,Saturday,11:00,CDMX-Pachuca,Sur,OCC,42,40.0,95.2,180.5,7220.0,Baja
-ADO-00260,2024-12-04,Wednesday,15:00,  CDMX-Queretaro  ,Observatorio,OCC,42,31.0,73.8,304.0,9424.0,Alta
+ADO-00260,2024-12-04,Wednesday,15:00,CDMX-Queretaro,Observatorio,OCC,42,31.0,73.8,304.0,9424.0,Alta
 ADO-01303,2024-11-26,Tuesday,22:00,CDMX-Tlaxcala,Sur,ADO GL,48,30.0,62.5,288.0,8640.0,Baja
 ADO-01678,2024-05-28,Tuesday,22:00,CDMX-Querétaro,Poniente,Primera Plus,36,29.0,80.6,320.0,9280.0,Baja
 ADO-01762,2024-04-24,Wednesday,18:00,CDMX-Querétaro,Sur,Primera Plus,36,32.0,88.9,384.0,,Baja
@@ -113,7 +113,7 @@ ADO-01899,2024/12/15,Sunday,15:00,CDMX-Tlaxcala,Norte,Primera Plus,36,33.0,91.7,
 ADO-02020,2024-02-07,Wednesday,19:00,cdmx-queretaro,Poniente,Primera Plus,36,23.0,63.9,384.0,8832.0,Baja
 ADO-00171,2024/12/24,Tuesday,19:00,CDMX-Queretaro,Poniente,Ejecutivo,24,16.0,66.7,320.0,5120.0,Alta
 ADO-00569,31-08-2024,Saturday,17:00,CDMX-Pachuca,Poniente,ADO GL,48,37.0,77.1,180.5,6678.5,Alta
-ADO-01362,2024-05-04,Saturday,08:00,CDMX-cuernavaca,Poniente,Ejecutivo,24,0.0,100.0,220.0,5280.0,Baja
+ADO-01362,2024-05-04,Saturday,08:00,CDMX-cuernavaca,Poniente,Ejecutivo,24,24.0,100.0,220.0,5280.0,Baja
 ADO-02395,2024/03/05,Tuesday,07:00,CDMX-Tlaxcala,TAPO,Primera Plus,36,28.0,77.8,288.0,8064.0,Baja
 ADO-00464,2024-10-02,Wednesday,10:00,CDMX-cuernavaca,TAPO,ADO GL,48,32.0,66.7,220.0,7040.0,Baja
 ADO-00213,2024-04-23,Tuesday,11:00,cdmx-queretaro,Observatorio,Ejecutivo,24,,75.0,304.0,5472.0,Baja
@@ -121,7 +121,7 @@ ADO-01573,2024-03-23,Saturday,14:00,cdmx - puebla,Norte,ADO GL,48,42.0,87.5,280.
 ADO-01539,22/05/2024,Wednesday,08:00,CDMX - Puebla,Poniente,ADO GL,48,31.0,64.6,280.0,8680.0,Baja
 ADO-01653,2024-10-26,Saturday,20:00,CDMX-Toluca,Observatorio,Ejecutivo,24,20.0,83.3,216.0,4320.0,Baja
 ADO-01724,24-10-2024,Thursday,18:00,cdmx-queretaro,TAPO,Ejecutivo,24,20.0,83.3,320.0,6400.0,Baja
-ADO-00297,2024-09-15,Sunday,14:00,CDMX - Toluca,Poniente,Ejecutivo,24,0.0,91.7,180.0,3960.0,Baja
+ADO-00297,2024-09-15,Sunday,14:00,CDMX - Toluca,Poniente,Ejecutivo,24,22.0,91.7,180.0,3960.0,Baja
 ADO-00931,2024-12-24,Tuesday,21:00,CDMX-Querétaro,Observatorio,Primera Plus,36,21.0,58.3,320.0,6720.0,Alta
 ADO-02121,28-03-2024,Thursday,20:00,CDMX-Puebla,Norte,Ejecutivo,24,22.0,91.7,308.0,,Baja
 ADO-01000,23/12/2024,Monday,12:00,CDMX-cuernavaca,Observatorio,Ejecutivo,24,17.0,70.8,220.0,3740.0,Alta
@@ -153,13 +153,13 @@ ADO-02299,22-03-2024,Friday,10:00,CDMX-Tlaxcala,Sur,Primera Plus,36,26.0,72.2,24
 ADO-01949,2024-06-12,Wednesday,20:00,cdmx-queretaro,Sur,Primera Plus,36,28.0,77.8,304.0,8512.0,Baja
 ADO-00179,2024/04/29,Monday,10:00,cdmx-queretaro,Norte,Ejecutivo,24,14.0,58.3,320.0,4480.0,Baja
 ADO-01495,2024-04-03,Wednesday,06:00,CDMX-Puebla,Norte,Ejecutivo,24,20.0,83.3,280.0,5600.0,Baja
-ADO-01880,2024-09-02,Monday,07:00,  CDMX-Toluca  ,Norte,ADO GL,48,33.0,68.8,171.0,5643.0,Baja
+ADO-01880,2024-09-02,Monday,07:00,CDMX-Toluca,Norte,ADO GL,48,33.0,68.8,171.0,5643.0,Baja
 ADO-02346,2024-06-24,Monday,22:00,CDMX-Cuernavaca,Norte,Ejecutivo,24,18.0,75.0,209.0,,Baja
 ADO-00835,12/10/2024,Saturday,09:00,CDMX-Cuernavaca,Norte,Primera Plus,36,35.0,97.2,220.0,7700.0,Baja
 ADO-00486,2024-02-18,Sunday,10:00,CDMX-Cuernavaca,TAPO,OCC,42,28.0,66.7,264.0,7392.0,Baja
-ADO-00522,2024-06-28,Friday,09:00,  CDMX-Queretaro  ,TAPO,Ejecutivo,24,20.0,83.3,352.0,7040.0,Baja
+ADO-00522,2024-06-28,Friday,09:00,CDMX-Queretaro,TAPO,Ejecutivo,24,20.0,83.3,352.0,7040.0,Baja
 ADO-01406,2024-08-31,Saturday,09:00,CDMX-Pachuca,Norte,OCC,42,38.0,90.5,228.0,8664.0,Alta
-ADO-01865,07/07/2024,Sunday,18:00,CDMX-cuernavaca,Observatorio,ADO GL,48,54.85351014252048,114.278146130251,264.0,12672.0,Alta
+ADO-01865,07/07/2024,Sunday,18:00,CDMX-cuernavaca,Observatorio,ADO GL,48,62.400000000000006,100.0,264.0,12672.0,Alta
 ADO-00174,2024-09-07,Saturday,19:00,CDMX-cuernavaca,TAPO,ADO GL,48,,100.0,209.0,,Baja
 ADO-00112,2024-05-21,Tuesday,22:00,CDMX - Pachuca,TAPO,ADO GL,48,31.0,64.6,190.0,5890.0,Baja
 ADO-01707,2024-09-10,Tuesday,13:00,CDMX - Puebla,Norte,Primera Plus,36,26.0,72.2,266.0,6916.0,Baja
@@ -176,7 +176,7 @@ ADO-00368,2024/06/29,Saturday,10:00,CDMX - Puebla,Poniente,OCC,42,35.0,83.3,336.
 ADO-01843,2024-02-21,Wednesday,21:00,CDMX-Queretaro,Norte,OCC,42,,57.1,352.0,8448.0,Baja
 ADO-01466,10/03/2024,Sunday,21:00,CDMX - Toluca,Sur,Ejecutivo,24,22.0,91.7,180.0,3960.0,Baja
 ADO-01124,2024-11-28,Thursday,10:00,CDMX-Tlaxcala,Norte,OCC,42,21.0,50.0,264.0,5544.0,Baja
-ADO-02309,2024/07/10,Wednesday,15:00,CDMX-Querétaro,Observatorio,OCC,42,0.0,69.0,384.0,11136.0,Alta
+ADO-02309,2024/07/10,Wednesday,15:00,CDMX-Querétaro,Observatorio,OCC,42,29.0,69.0,384.0,11136.0,Alta
 ADO-02413,17-10-2024,Thursday,12:00,CDMX-Queretaro,TAPO,Ejecutivo,24,12.0,50.0,320.0,3840.0,Baja
 ADO-00742,2024-09-18,Wednesday,20:00,CDMX - Toluca,Sur,Ejecutivo,24,11.0,45.8,216.0,2376.0,Baja
 ADO-00846,2024-01-22,Monday,22:00,CDMX-Querétaro,TAPO,OCC,42,29.0,69.0,384.0,11136.0,Alta
@@ -185,19 +185,19 @@ ADO-01214,2024-06-16,Sunday,12:00,CDMX-Cuernavaca,Sur,ADO GL,48,45.0,93.8,220.0,
 ADO-01628,23-07-2024,Tuesday,14:00,CDMX-Querétaro,Poniente,Primera Plus,36,28.0,77.8,304.0,8512.0,Alta
 ADO-00791,2024-10-12,Saturday,19:00,CDMX - Pachuca,TAPO,ADO GL,48,48.0,100.0,228.0,10944.0,Baja
 ADO-01858,2024-03-25,Monday,15:00,CDMX - Puebla,Observatorio,Primera Plus,36,22.0,61.1,266.0,5852.0,Baja
-ADO-02232,19/11/2024,Tuesday,18:00,  CDMX - Puebla  ,TAPO,ADO GL,48,,87.5,308.0,12936.0,Baja
+ADO-02232,19/11/2024,Tuesday,18:00,CDMX - Puebla,TAPO,ADO GL,48,,87.5,308.0,12936.0,Baja
 ADO-01337,2024/07/15,Monday,11:00,CDMX-Pachuca,Sur,Ejecutivo,24,13.0,54.2,180.5,2346.5,Alta
 ADO-00810,2024-07-20,Saturday,10:00,CDMX - Puebla,TAPO,ADO GL,48,35.0,72.9,308.0,10780.0,Alta
 ADO-00479,2024-05-24,Friday,15:00,CDMX-Tlaxcala,TAPO,ADO GL,48,48.0,100.0,288.0,13824.0,Baja
 ADO-00255,2024-10-05,Saturday,14:00,CDMX - Toluca,Poniente,Ejecutivo,24,16.0,66.7,180.0,2880.0,Baja
-ADO-02218,13/06/2024,Thursday,22:00,  CDMX-Pachuca  ,Sur,Primera Plus,36,23.0,63.9,190.0,4370.0,Baja
+ADO-02218,13/06/2024,Thursday,22:00,CDMX-Pachuca,Sur,Primera Plus,36,23.0,63.9,190.0,4370.0,Baja
 ADO-01042,2024-01-09,Tuesday,11:00,CDMX-Queretaro,Poniente,Ejecutivo,24,14.0,58.3,320.0,4480.0,Alta
 ADO-01187,2024-11-06,Wednesday,09:00,CDMX - Toluca,Sur,OCC,42,28.0,66.7,180.0,5040.0,Baja
 ADO-00247,2024-09-12,Thursday,06:00,CDMX-cuernavaca,Poniente,Primera Plus,36,21.0,58.3,220.0,4620.0,Baja
 ADO-01733,24-11-2024,Sunday,21:00,CDMX-Cuernavaca,Poniente,Primera Plus,36,30.0,83.3,264.0,7920.0,Baja
 ADO-02041,2024/07/13,Saturday,09:00,CDMX-cuernavaca,Poniente,Ejecutivo,24,21.0,87.5,264.0,5544.0,Alta
 ADO-00444,2024-08-23,Friday,09:00,CDMX-Puebla,Sur,Primera Plus,36,28.0,77.8,308.0,8624.0,Alta
-ADO-02006,2024-06-12,Wednesday,22:00,  CDMX-Tlaxcala  ,TAPO,OCC,42,28.0,66.7,228.0,6384.0,Baja
+ADO-02006,2024-06-12,Wednesday,22:00,CDMX-Tlaxcala,TAPO,OCC,42,28.0,66.7,228.0,6384.0,Baja
 ADO-02314,2024-05-05,Sunday,09:00,CDMX - Pachuca,Sur,OCC,42,42.0,100.0,180.5,7581.0,Baja
 ADO-00773,2024-07-03,Wednesday,12:00,CDMX-Puebla,Poniente,Ejecutivo,24,17.0,70.8,266.0,4522.0,Alta
 ADO-01976,2024-03-13,Wednesday,21:00,CDMX-Querétaro,Norte,Primera Plus,36,21.0,58.3,320.0,6720.0,Baja
@@ -263,8 +263,8 @@ ADO-02399,26/04/2024,Friday,14:00,CDMX - Toluca,Sur,OCC,42,28.0,66.7,198.0,5544.
 ADO-02074,2024-03-18,Monday,22:00,CDMX-cuernavaca,Observatorio,Ejecutivo,24,16.0,66.7,220.0,3520.0,Baja
 ADO-00519,09/11/2024,Saturday,09:00,CDMX-Querétaro,Poniente,OCC,42,42.0,100.0,320.0,13440.0,Baja
 ADO-02229,2024-04-07,Sunday,11:00,CDMX-Querétaro,Norte,Ejecutivo,24,15.0,62.5,352.0,5280.0,Baja
-ADO-00446,2024-07-03,Wednesday,08:00,  CDMX-Queretaro  ,Poniente,ADO GL,48,42.0,87.5,320.0,13440.0,Alta
-ADO-00238,2024-09-21,Saturday,15:00,  cdmx - puebla  ,Poniente,Ejecutivo,24,20.0,83.3,280.0,5600.0,Baja
+ADO-00446,2024-07-03,Wednesday,08:00,CDMX-Queretaro,Poniente,ADO GL,48,42.0,87.5,320.0,13440.0,Alta
+ADO-00238,2024-09-21,Saturday,15:00,cdmx - puebla,Poniente,Ejecutivo,24,20.0,83.3,280.0,5600.0,Baja
 ADO-00110,2024-06-29,Saturday,20:00,CDMX - Pachuca,Norte,,48,40.0,83.3,190.0,7600.0,Baja
 ADO-01476,2024/09/08,Sunday,08:00,CDMX-Querétaro,Sur,Primera Plus,36,36.0,100.0,320.0,11520.0,Baja
 ADO-01922,02/04/2024,Tuesday,10:00,CDMX-Toluca,Norte,ADO GL,48,35.0,72.9,198.0,6930.0,Baja
@@ -349,20 +349,20 @@ ADO-00209,2024-01-10,Wednesday,08:00,CDMX - Toluca,Observatorio,,48,41.0,85.4,19
 ADO-01090,2024/08/03,Saturday,06:00,CDMX-Queretaro,Observatorio,OCC,42,34.0,81.0,320.0,10880.0,Alta
 ADO-00423,2024-12-21,Saturday,11:00,CDMX-Pachuca,Sur,Primera Plus,36,29.0,80.6,190.0,5510.0,Alta
 ADO-00462,20/04/2024,Saturday,07:00,CDMX-Puebla,Observatorio,,42,42.0,100.0,280.0,11760.0,Baja
-ADO-01371,25/03/2024,Monday,12:00,  CDMX - Pachuca  ,Sur,Primera Plus,36,22.0,61.1,190.0,,Baja
+ADO-01371,25/03/2024,Monday,12:00,CDMX - Pachuca,Sur,Primera Plus,36,22.0,61.1,190.0,,Baja
 ADO-01823,02/04/2024,Tuesday,13:00,CDMX-Queretaro,Sur,ADO GL,48,29.0,60.4,352.0,10208.0,Baja
 ADO-02366,27-07-2024,Saturday,13:00,CDMX-Querétaro,Observatorio,OCC,42,42.0,100.0,320.0,13440.0,Alta
 ADO-02012,03/01/2024,Wednesday,18:00,CDMX-Tlaxcala,Sur,Ejecutivo,24,17.0,70.8,240.0,4080.0,Alta
 ADO-01957,2024-10-08,Tuesday,17:00,CDMX-Toluca,Sur,Primera Plus,36,19.0,52.8,216.0,4104.0,Baja
-ADO-02322,2024-04-03,Wednesday,16:00,  CDMX-Querétaro  ,Poniente,OCC,42,31.0,73.8,304.0,9424.0,Baja
+ADO-02322,2024-04-03,Wednesday,16:00,CDMX-Querétaro,Poniente,OCC,42,31.0,73.8,304.0,9424.0,Baja
 ADO-00529,2024-10-10,Thursday,14:00,CDMX - Pachuca,Norte,ADO GL,48,32.0,66.7,190.0,6080.0,Baja
 ADO-01668,2024-01-26,Friday,13:00,CDMX-Pachuca,Poniente,Ejecutivo,24,14.0,58.3,190.0,2660.0,Alta
 ADO-01101,2024-03-16,Saturday,10:00,CDMX-Querétaro,Sur,ADO GL,48,46.0,95.8,352.0,16192.0,Baja
 ADO-00200,2024-07-11,Thursday,20:00,CDMX-Toluca,Poniente,ADO GL,48,24.0,50.0,180.0,4320.0,Alta
 ADO-00230,2024-06-07,Friday,12:00,CDMX - Puebla,Sur,ADO GL,48,35.0,72.9,280.0,9800.0,Baja
-ADO-01837,2024-09-26,Thursday,22:00,  cdmx - puebla  ,Sur,OCC,42,21.0,50.0,280.0,5880.0,Baja
+ADO-01837,2024-09-26,Thursday,22:00,cdmx - puebla,Sur,OCC,42,21.0,50.0,280.0,5880.0,Baja
 ADO-02097,23/08/2024,Friday,22:00,CDMX-cuernavaca,Sur,Ejecutivo,24,17.0,70.8,209.0,3553.0,Alta
-ADO-00409,2024-05-31,Friday,08:00,  CDMX-Toluca  ,Poniente,Ejecutivo,24,19.0,79.2,180.0,3420.0,Baja
+ADO-00409,2024-05-31,Friday,08:00,CDMX-Toluca,Poniente,Ejecutivo,24,19.0,79.2,180.0,3420.0,Baja
 ADO-01522,2024-03-31,Sunday,12:00,CDMX-Toluca,Poniente,Ejecutivo,24,22.0,91.7,180.0,3960.0,Baja
 ADO-01546,09/10/2024,Wednesday,13:00,CDMX-Toluca,Poniente,Primera Plus,36,25.0,69.4,180.0,4500.0,Baja
 ADO-01006,2024-08-19,Monday,22:00,CDMX - Toluca,Sur,Ejecutivo,24,16.0,66.7,171.0,2736.0,Alta
@@ -411,14 +411,14 @@ ADO-01065,23/09/2024,Monday,21:00,CDMX - Puebla,Norte,ADO GL,48,29.0,60.4,336.0,
 ADO-01623,2024-11-10,Sunday,06:00,CDMX-cuernavaca,Observatorio,Primera Plus,36,34.0,94.4,209.0,7106.0,Baja
 ADO-00434,2024/03/27,Wednesday,15:00,cdmx-queretaro,Observatorio,ADO GL,48,35.0,72.9,320.0,11200.0,Baja
 ADO-00150,2024-07-13,Saturday,21:00,cdmx-queretaro,Observatorio,,24,21.0,87.5,320.0,6720.0,Alta
-ADO-01224,03-08-2024,Saturday,15:00,  CDMX-Puebla  ,Poniente,ADO GL,48,43.0,89.6,280.0,12040.0,Alta
+ADO-01224,03-08-2024,Saturday,15:00,CDMX-Puebla,Poniente,ADO GL,48,43.0,89.6,280.0,12040.0,Alta
 ADO-01509,2024-01-02,Tuesday,12:00,CDMX - Puebla,Observatorio,,24,15.0,62.5,308.0,4620.0,Alta
 ADO-00743,19/11/2024,Tuesday,11:00,CDMX - Puebla,Sur,ADO GL,48,27.0,56.2,266.0,7182.0,Baja
 ADO-02494,2024-04-18,Thursday,18:00,CDMX-cuernavaca,Observatorio,Primera Plus,36,35.0,97.2,220.0,7700.0,Baja
 ADO-02304,2024/04/06,Saturday,06:00,CDMX - Pachuca,Sur,Ejecutivo,24,21.0,87.5,190.0,3990.0,Baja
 ADO-01601,23/02/2024,Friday,06:00,cdmx - puebla,TAPO,OCC,42,,61.9,308.0,8008.0,Baja
 ADO-02289,2024-01-07,Sunday,07:00,CDMX-cuernavaca,Norte,Ejecutivo,24,22.0,91.7,209.0,4598.0,Alta
-ADO-02394,26-07-2024,Friday,14:00,  CDMX-Tlaxcala  ,Poniente,OCC,42,24.0,57.1,288.0,6912.0,Alta
+ADO-02394,26-07-2024,Friday,14:00,CDMX-Tlaxcala,Poniente,OCC,42,24.0,57.1,288.0,6912.0,Alta
 ADO-02306,2024-02-19,Monday,06:00,CDMX-Querétaro,TAPO,Ejecutivo,24,24.0,100.0,320.0,7680.0,Baja
 ADO-00164,2024-03-08,Friday,15:00,cdmx - puebla,Sur,ADO GL,48,26.0,54.2,280.0,7280.0,Baja
 ADO-00403,2024-05-09,Thursday,10:00,CDMX-Pachuca,Sur,OCC,42,27.0,64.3,190.0,5130.0,Baja
@@ -438,7 +438,7 @@ ADO-01923,2024-09-03,Tuesday,14:00,CDMX-Puebla,Poniente,OCC,42,21.0,50.0,280.0,5
 ADO-00049,2024-02-23,Friday,14:00,CDMX - Puebla,TAPO,Ejecutivo,24,16.0,66.7,266.0,4256.0,Baja
 ADO-00760,18/07/2024,Thursday,13:00,CDMX-Toluca,TAPO,ADO GL,48,,72.9,198.0,6930.0,Alta
 ADO-01464,2024-06-09,Sunday,08:00,cdmx - puebla,Poniente,Ejecutivo,24,21.0,87.5,280.0,5880.0,Baja
-ADO-01335,27/05/2024,Monday,20:00,  CDMX-Pachuca  ,Norte,ADO GL,48,32.0,66.7,209.0,6688.0,Baja
+ADO-01335,27/05/2024,Monday,20:00,CDMX-Pachuca,Norte,ADO GL,48,32.0,66.7,209.0,6688.0,Baja
 ADO-01055,2024-08-08,Thursday,12:00,CDMX-Puebla,TAPO,Ejecutivo,24,14.0,58.3,266.0,3724.0,Alta
 ADO-00125,11-04-2024,Thursday,09:00,CDMX-Toluca,Poniente,Primera Plus,36,31.0,86.1,180.0,5580.0,Baja
 ADO-00694,31/08/2024,Saturday,07:00,CDMX-cuernavaca,TAPO,,24,24.0,100.0,242.0,5808.0,Alta
@@ -519,7 +519,7 @@ ADO-01737,2024/05/28,Tuesday,18:00,CDMX-Queretaro,TAPO,ADO GL,48,32.0,66.7,320.0
 ADO-00124,20-08-2024,Tuesday,13:00,cdmx - puebla,Observatorio,ADO GL,48,,47.9,266.0,6118.0,Alta
 ADO-01499,2024-10-28,Monday,17:00,CDMX-Cuernavaca,Norte,Primera Plus,36,33.0,91.7,220.0,7260.0,Baja
 ADO-00597,28-05-2024,Tuesday,16:00,cdmx-queretaro,TAPO,OCC,42,25.0,59.5,320.0,8000.0,Baja
-ADO-00407,2024-02-20,Tuesday,13:00,  CDMX-Queretaro  ,Sur,Primera Plus,36,18.0,50.0,320.0,5760.0,Baja
+ADO-00407,2024-02-20,Tuesday,13:00,CDMX-Queretaro,Sur,Primera Plus,36,18.0,50.0,320.0,5760.0,Baja
 ADO-02448,2024-01-20,Saturday,06:00,CDMX-Tlaxcala,Norte,ADO GL,48,39.0,81.2,288.0,11232.0,Alta
 ADO-00582,2024-07-15,Monday,15:00,CDMX-Cuernavaca,TAPO,Primera Plus,36,21.0,58.3,220.0,,Alta
 ADO-01640,10-08-2024,Saturday,16:00,cdmx-queretaro,Poniente,Primera Plus,36,25.0,69.4,320.0,8000.0,Alta
@@ -545,9 +545,9 @@ ADO-00291,2024-04-07,Sunday,11:00,CDMX-Tlaxcala,Observatorio,OCC,42,34.0,81.0,26
 ADO-00638,2024/01/03,Wednesday,20:00,cdmx-queretaro,TAPO,Primera Plus,36,23.0,63.9,320.0,,Alta
 ADO-01714,2024-04-12,Friday,21:00,CDMX - Toluca,Norte,,48,36.0,75.0,171.0,,Baja
 ADO-00417,2024-10-01,Tuesday,17:00,CDMX - Puebla,Poniente,ADO GL,48,47.0,97.9,308.0,14476.0,Baja
-ADO-00473,12/09/2024,Thursday,11:00,  CDMX-cuernavaca  ,Poniente,ADO GL,48,22.0,45.8,220.0,4840.0,Baja
+ADO-00473,12/09/2024,Thursday,11:00,CDMX-cuernavaca,Poniente,ADO GL,48,22.0,45.8,220.0,4840.0,Baja
 ADO-02278,2024-04-20,Saturday,16:00,CDMX - Puebla,Sur,Primera Plus,36,,69.4,266.0,6650.0,Baja
-ADO-02469,2024-03-24,Sunday,16:00,  CDMX - Puebla  ,Observatorio,Primera Plus,36,33.0,91.7,266.0,8778.0,Baja
+ADO-02469,2024-03-24,Sunday,16:00,CDMX - Puebla,Observatorio,Primera Plus,36,33.0,91.7,266.0,8778.0,Baja
 ADO-02439,01/03/2024,Friday,09:00,CDMX - Puebla,Poniente,OCC,42,31.0,73.8,280.0,8680.0,Baja
 ADO-01069,11/12/2024,Wednesday,09:00,CDMX - Toluca,Sur,OCC,42,31.0,73.8,216.0,6696.0,Alta
 ADO-00839,14-01-2024,Sunday,08:00,cdmx-queretaro,Poniente,OCC,42,42.0,100.0,384.0,16128.0,Alta
@@ -597,7 +597,7 @@ ADO-01763,2024/06/05,Wednesday,17:00,CDMX-Puebla,Observatorio,Ejecutivo,24,19.0,
 ADO-00681,2024-02-09,Friday,14:00,CDMX-Cuernavaca,Poniente,OCC,42,30.0,71.4,264.0,7920.0,Baja
 ADO-01033,2024/11/02,Saturday,10:00,cdmx - puebla,Norte,Primera Plus,36,32.0,88.9,308.0,9856.0,Baja
 ADO-00308,2024/07/30,Tuesday,12:00,CDMX - Pachuca,Observatorio,OCC,42,24.0,57.1,228.0,5472.0,Alta
-ADO-00384,2024-02-08,Thursday,18:00,cdmx-queretaro,TAPO,ADO GL,48,0.0,72.9,304.0,10640.0,Baja
+ADO-00384,2024-02-08,Thursday,18:00,cdmx-queretaro,TAPO,ADO GL,48,35.0,72.9,304.0,10640.0,Baja
 ADO-01304,2024-06-13,Thursday,17:00,CDMX - Pachuca,Sur,OCC,42,29.0,69.0,209.0,6061.0,Baja
 ADO-02334,2024-09-01,Sunday,12:00,CDMX - Toluca,Poniente,Ejecutivo,24,19.0,79.2,198.0,,Baja
 ADO-01950,2024-09-29,Sunday,11:00,CDMX - Pachuca,Norte,OCC,42,35.0,83.3,209.0,7315.0,Baja
@@ -612,7 +612,7 @@ ADO-00946,2024-11-23,Saturday,14:00,CDMX - Toluca,Norte,OCC,42,30.0,71.4,180.0,5
 ADO-02034,18/03/2024,Monday,13:00,CDMX-Queretaro,Observatorio,ADO GL,48,34.0,70.8,352.0,11968.0,Baja
 ADO-02052,2024-02-26,Monday,11:00,CDMX-Tlaxcala,Sur,Ejecutivo,24,13.0,54.2,240.0,-3120.0,Baja
 ADO-00696,23/01/2024,Tuesday,22:00,CDMX - Pachuca,Poniente,OCC,42,25.0,59.5,209.0,5225.0,Alta
-ADO-01034,2024-09-25,Wednesday,08:00,  cdmx-queretaro  ,TAPO,OCC,42,36.0,85.7,320.0,11520.0,Baja
+ADO-01034,2024-09-25,Wednesday,08:00,cdmx-queretaro,TAPO,OCC,42,36.0,85.7,320.0,11520.0,Baja
 ADO-00799,2024-07-22,Monday,07:00,CDMX-Puebla,Observatorio,ADO GL,48,38.0,79.2,280.0,10640.0,Alta
 ADO-00648,02/10/2024,Wednesday,06:00,CDMX-Cuernavaca,Poniente,Ejecutivo,24,,62.5,209.0,3135.0,Baja
 ADO-00490,2024-06-09,Sunday,09:00,CDMX-Toluca,Poniente,ADO GL,48,48.0,100.0,198.0,9504.0,Baja
@@ -641,7 +641,7 @@ ADO-00783,01/01/2024,Monday,22:00,CDMX-Tlaxcala,Poniente,OCC,42,29.0,69.0,240.0,
 ADO-01314,05/10/2024,Saturday,06:00,CDMX-Queretaro,Norte,ADO GL,48,44.0,91.7,320.0,14080.0,Baja
 ADO-00204,2024-08-08,Thursday,15:00,cdmx - puebla,Observatorio,OCC,42,32.0,76.2,266.0,8512.0,Alta
 ADO-01815,2024-09-19,Thursday,08:00,CDMX-Pachuca,TAPO,ADO GL,48,36.0,75.0,209.0,7524.0,Baja
-ADO-00121,2024-04-16,Tuesday,12:00,  CDMX-Pachuca  ,TAPO,ADO GL,48,35.0,72.9,190.0,6650.0,Baja
+ADO-00121,2024-04-16,Tuesday,12:00,CDMX-Pachuca,TAPO,ADO GL,48,35.0,72.9,190.0,6650.0,Baja
 ADO-00284,17-11-2024,Sunday,15:00,CDMX-Cuernavaca,Sur,ADO GL,48,33.0,68.8,220.0,7260.0,Baja
 ADO-00576,2024-08-22,Thursday,16:00,CDMX - Puebla,TAPO,Primera Plus,36,13.0,36.1,308.0,4004.0,Alta
 ADO-01334,18/10/2024,Friday,20:00,CDMX - Toluca,Observatorio,OCC,42,34.0,81.0,180.0,6120.0,Baja
@@ -655,12 +655,12 @@ ADO-01491,2024-04-08,Monday,19:00,CDMX - Puebla,Observatorio,Ejecutivo,24,17.0,7
 ADO-00945,2024/12/22,Sunday,14:00,CDMX - Puebla,Sur,ADO GL,48,48.0,100.0,266.0,12768.0,Alta
 ADO-00630,23/03/2024,Saturday,14:00,CDMX-Queretaro,TAPO,Primera Plus,36,35.0,97.2,304.0,10640.0,Baja
 ADO-01579,23-02-2024,Friday,18:00,CDMX-Queretaro,Observatorio,Primera Plus,36,25.0,69.4,352.0,8800.0,Baja
-ADO-00837,2024-11-22,Friday,14:00,  CDMX - Pachuca  ,Poniente,Primera Plus,36,30.0,83.3,190.0,,Baja
-ADO-00287,09/06/2024,Sunday,16:00,CDMX - Pachuca,Sur,ADO GL,48,0.0,81.2,190.0,7410.0,Baja
+ADO-00837,2024-11-22,Friday,14:00,CDMX - Pachuca,Poniente,Primera Plus,36,30.0,83.3,190.0,,Baja
+ADO-00287,09/06/2024,Sunday,16:00,CDMX - Pachuca,Sur,ADO GL,48,39.0,81.2,190.0,7410.0,Baja
 ADO-02005,2024-04-03,Wednesday,09:00,CDMX-Querétaro,Poniente,Primera Plus,36,20.0,55.6,320.0,6400.0,Baja
 ADO-01018,2024-12-07,Saturday,10:00,CDMX-Tlaxcala,Poniente,Primera Plus,36,28.0,77.8,240.0,6720.0,Alta
 ADO-01492,2024-01-27,Saturday,19:00,CDMX-Toluca,Poniente,ADO GL,48,48.0,100.0,180.0,8640.0,Alta
-ADO-00424,2024-06-10,Monday,07:00,  CDMX - Toluca  ,TAPO,ADO GL,48,43.0,89.6,198.0,8514.0,Baja
+ADO-00424,2024-06-10,Monday,07:00,CDMX - Toluca,TAPO,ADO GL,48,43.0,89.6,198.0,8514.0,Baja
 ADO-01851,02/11/2024,Saturday,06:00,CDMX-Toluca,Poniente,ADO GL,48,37.0,77.1,216.0,7992.0,Baja
 ADO-01289,2024-11-23,Saturday,13:00,CDMX-Querétaro,Observatorio,OCC,42,30.0,71.4,320.0,9600.0,Baja
 ADO-01624,03/03/2024,Sunday,06:00,CDMX-Querétaro,Observatorio,Ejecutivo,24,18.0,75.0,384.0,6912.0,Baja
@@ -749,7 +749,7 @@ ADO-00822,10/05/2024,Friday,07:00,CDMX - Puebla,Poniente,ADO GL,48,46.0,95.8,266
 ADO-02213,19/03/2024,Tuesday,13:00,CDMX-cuernavaca,TAPO,Ejecutivo,24,18.0,75.0,220.0,3960.0,Baja
 ADO-00930,2024-10-29,Tuesday,10:00,CDMX - Pachuca,Norte,OCC,42,26.0,61.9,190.0,4940.0,Baja
 ADO-01339,21/04/2024,Sunday,19:00,CDMX - Toluca,Norte,Ejecutivo,24,22.0,91.7,180.0,3960.0,Baja
-ADO-01468,2024/09/27,Friday,07:00,CDMX-Pachuca,Poniente,OCC,42,0.0,83.3,180.5,6317.5,Baja
+ADO-01468,2024/09/27,Friday,07:00,CDMX-Pachuca,Poniente,OCC,42,35.0,83.3,180.5,6317.5,Baja
 ADO-00014,25/11/2024,Monday,10:00,CDMX - Toluca,Poniente,ADO GL,48,20.0,41.7,180.0,3600.0,Baja
 ADO-01051,2024-03-08,Friday,21:00,CDMX-Puebla,Norte,ADO GL,48,27.0,56.2,266.0,7182.0,Baja
 ADO-01567,10/02/2024,Saturday,08:00,CDMX-Pachuca,Poniente,Primera Plus,36,36.0,100.0,180.5,,Baja
@@ -761,15 +761,15 @@ ADO-01914,2024-08-11,Sunday,13:00,cdmx - puebla,Observatorio,Primera Plus,36,32.
 ADO-00875,2024-12-10,Tuesday,21:00,CDMX - Toluca,Poniente,Ejecutivo,24,15.0,62.5,198.0,2970.0,Alta
 ADO-00768,06-02-2024,Tuesday,21:00,CDMX-Cuernavaca,Poniente,Primera Plus,36,31.0,86.1,220.0,6820.0,Baja
 ADO-00904,2024-04-30,Tuesday,08:00,CDMX - Puebla,TAPO,OCC,42,40.0,95.2,336.0,13440.0,Baja
-ADO-01152,17/05/2024,Friday,06:00,  CDMX-cuernavaca  ,TAPO,ADO GL,48,18.0,37.5,209.0,3762.0,Baja
+ADO-01152,17/05/2024,Friday,06:00,CDMX-cuernavaca,TAPO,ADO GL,48,18.0,37.5,209.0,3762.0,Baja
 ADO-00383,2024-09-13,Friday,17:00,CDMX - Pachuca,TAPO,Ejecutivo,24,13.0,54.2,209.0,2717.0,Baja
 ADO-01125,2024-03-09,Saturday,11:00,CDMX-Queretaro,Norte,ADO GL,48,48.0,100.0,320.0,15360.0,Baja
 ADO-02011,10/06/2024,Monday,15:00,CDMX - Toluca,Observatorio,OCC,42,19.0,45.2,198.0,3762.0,Baja
-ADO-01357,2024-07-29,Monday,21:00,  CDMX-Queretaro  ,Observatorio,Ejecutivo,24,14.0,58.3,384.0,5376.0,Alta
+ADO-01357,2024-07-29,Monday,21:00,CDMX-Queretaro,Observatorio,Ejecutivo,24,14.0,58.3,384.0,5376.0,Alta
 ADO-01879,2024-05-09,Thursday,06:00,CDMX-Cuernavaca,TAPO,ADO GL,48,,43.8,209.0,4389.0,Baja
 ADO-01512,23/11/2024,Saturday,14:00,CDMX - Puebla,Norte,Primera Plus,36,29.0,80.6,280.0,8120.0,Baja
 ADO-01740,2024-05-13,Monday,16:00,CDMX-Querétaro,Poniente,Ejecutivo,24,20.0,83.3,320.0,6400.0,Baja
-ADO-00264,2024-12-13,Friday,20:00,  CDMX-Tlaxcala  ,Poniente,Ejecutivo,24,,50.0,240.0,2880.0,Alta
+ADO-00264,2024-12-13,Friday,20:00,CDMX-Tlaxcala,Poniente,Ejecutivo,24,,50.0,240.0,2880.0,Alta
 ADO-00941,2024-01-05,Friday,06:00,cdmx - puebla,TAPO,OCC,42,20.0,47.6,336.0,6720.0,Alta
 ADO-02178,24-04-2024,Wednesday,15:00,CDMX - Puebla,Sur,Primera Plus,36,24.0,66.7,280.0,6720.0,Baja
 ADO-01676,2024-02-09,Friday,06:00,CDMX - Puebla,Sur,ADO GL,48,29.0,60.4,336.0,9744.0,Baja
@@ -784,7 +784,7 @@ ADO-00317,14/10/2024,Monday,14:00,CDMX - Pachuca,TAPO,Primera Plus,36,26.0,72.2,
 ADO-00305,2024-10-23,Wednesday,13:00,CDMX-cuernavaca,Observatorio,Ejecutivo,24,15.0,62.5,242.0,3630.0,Baja
 ADO-00428,2024-08-22,Thursday,21:00,CDMX-cuernavaca,Observatorio,Ejecutivo,24,17.0,70.8,220.0,3740.0,Alta
 ADO-00106,2024-11-01,Friday,14:00,CDMX - Pachuca,Observatorio,Ejecutivo,24,16.0,66.7,190.0,3040.0,Baja
-ADO-02269,2024-04-16,Tuesday,21:00,  CDMX-Querétaro  ,Norte,Ejecutivo,24,14.0,58.3,304.0,4256.0,Baja
+ADO-02269,2024-04-16,Tuesday,21:00,CDMX-Querétaro,Norte,Ejecutivo,24,14.0,58.3,304.0,4256.0,Baja
 ADO-00122,09/10/2024,Wednesday,11:00,cdmx - puebla,Sur,Ejecutivo,24,12.0,50.0,308.0,3696.0,Baja
 ADO-00963,2024-10-01,Tuesday,13:00,CDMX - Puebla,TAPO,Ejecutivo,24,16.0,66.7,266.0,4256.0,Baja
 ADO-01866,2024-04-13,Saturday,10:00,cdmx - puebla,Poniente,Ejecutivo,24,15.0,62.5,280.0,4200.0,Baja
@@ -807,7 +807,7 @@ ADO-00310,2024/09/01,Sunday,18:00,CDMX-Cuernavaca,Poniente,ADO GL,48,46.0,95.8,2
 ADO-00592,2024-05-14,Tuesday,12:00,CDMX-Cuernavaca,Sur,ADO GL,48,28.0,58.3,220.0,6160.0,Baja
 ADO-00463,13/09/2024,Friday,19:00,CDMX-Tlaxcala,Sur,OCC,42,30.0,71.4,240.0,7200.0,Baja
 ADO-02114,2024-01-11,Thursday,21:00,CDMX-cuernavaca,Sur,OCC,42,22.0,52.4,264.0,5808.0,Alta
-ADO-02181,2024/07/26,Friday,19:00,  CDMX-Toluca  ,Sur,OCC,42,32.0,76.2,198.0,6336.0,Alta
+ADO-02181,2024/07/26,Friday,19:00,CDMX-Toluca,Sur,OCC,42,32.0,76.2,198.0,6336.0,Alta
 ADO-01245,2024/03/13,Wednesday,11:00,cdmx-queretaro,Observatorio,Primera Plus,36,20.0,55.6,352.0,7040.0,Baja
 ADO-02055,2024-11-02,Saturday,22:00,CDMX - Pachuca,Poniente,Primera Plus,36,,66.7,190.0,4560.0,Baja
 ADO-00553,2024/04/12,Friday,13:00,CDMX-Puebla,Sur,Ejecutivo,24,18.0,75.0,280.0,,Baja
@@ -834,7 +834,7 @@ ADO-00789,2024-05-11,Saturday,17:00,CDMX-Puebla,Observatorio,Primera Plus,36,35.
 ADO-00072,27/03/2024,Wednesday,08:00,CDMX-Pachuca,Observatorio,ADO GL,48,47.0,97.9,180.5,8483.5,Baja
 ADO-01273,2024/02/18,Sunday,20:00,CDMX-Pachuca,TAPO,Ejecutivo,24,17.0,70.8,190.0,3230.0,Baja
 ADO-02164,28-08-2024,Wednesday,09:00,CDMX - Toluca,Poniente,Ejecutivo,24,22.0,91.7,180.0,3960.0,Alta
-ADO-00064,2024-08-11,Sunday,22:00,  CDMX-cuernavaca  ,Sur,Ejecutivo,24,16.0,66.7,264.0,4224.0,Alta
+ADO-00064,2024-08-11,Sunday,22:00,CDMX-cuernavaca,Sur,Ejecutivo,24,16.0,66.7,264.0,4224.0,Alta
 ADO-00395,2024-11-16,Saturday,12:00,CDMX - Toluca,TAPO,OCC,42,41.0,97.6,180.0,7380.0,Baja
 ADO-01553,24-11-2024,Sunday,11:00,CDMX-Puebla,TAPO,Primera Plus,36,26.0,72.2,308.0,-8008.0,Baja
 ADO-00344,02/10/2024,Wednesday,22:00,CDMX-Toluca,Poniente,Primera Plus,36,21.0,58.3,180.0,3780.0,Baja
@@ -865,7 +865,7 @@ ADO-00562,2024-04-21,Sunday,15:00,CDMX - Toluca,Observatorio,OCC,42,42.0,100.0,1
 ADO-00686,2024-07-29,Monday,13:00,CDMX-Puebla,Poniente,Ejecutivo,24,17.0,70.8,336.0,5712.0,Alta
 ADO-01243,27/10/2024,Sunday,09:00,CDMX-Pachuca,Observatorio,Primera Plus,36,33.0,91.7,180.5,5956.5,Baja
 ADO-00591,01/03/2024,Friday,09:00,CDMX-Queretaro,Sur,Ejecutivo,24,19.0,79.2,320.0,6080.0,Baja
-ADO-00520,01/05/2024,Wednesday,16:00,  cdmx-queretaro  ,TAPO,Primera Plus,36,26.0,72.2,304.0,7904.0,Baja
+ADO-00520,01/05/2024,Wednesday,16:00,cdmx-queretaro,TAPO,Primera Plus,36,26.0,72.2,304.0,7904.0,Baja
 ADO-00309,2024/02/01,Thursday,10:00,CDMX - Pachuca,Observatorio,Primera Plus,36,25.0,69.4,190.0,4750.0,Baja
 ADO-00605,13/12/2024,Friday,13:00,CDMX-Cuernavaca,Observatorio,ADO GL,48,33.0,68.8,264.0,8712.0,Alta
 ADO-02173,2024-02-23,Friday,13:00,CDMX-Pachuca,Sur,Ejecutivo,24,,58.3,190.0,2660.0,Baja
@@ -896,13 +896,13 @@ ADO-02119,2024-06-09,Sunday,13:00,cdmx - puebla,Observatorio,ADO GL,48,26.0,54.2
 ADO-01715,28/10/2024,Monday,17:00,CDMX - Toluca,Sur,ADO GL,48,35.0,72.9,198.0,6930.0,Baja
 ADO-00021,01/06/2024,Saturday,22:00,CDMX-Pachuca,Poniente,Primera Plus,36,36.0,100.0,190.0,6840.0,Baja
 ADO-02341,2024-02-08,Thursday,06:00,CDMX-Toluca,TAPO,OCC,42,30.0,71.4,216.0,6480.0,Baja
-ADO-00440,16/06/2024,Sunday,06:00,  CDMX-cuernavaca  ,Sur,Ejecutivo,24,20.0,83.3,209.0,4180.0,Baja
+ADO-00440,16/06/2024,Sunday,06:00,CDMX-cuernavaca,Sur,Ejecutivo,24,20.0,83.3,209.0,4180.0,Baja
 ADO-02311,2024-01-16,Tuesday,21:00,CDMX-Queretaro,Observatorio,OCC,42,25.0,59.5,320.0,8000.0,Alta
-ADO-00382,17/10/2024,Thursday,16:00,  CDMX-Toluca  ,Poniente,OCC,42,24.0,57.1,171.0,4104.0,Baja
+ADO-00382,17/10/2024,Thursday,16:00,CDMX-Toluca,Poniente,OCC,42,24.0,57.1,171.0,4104.0,Baja
 ADO-01382,21/11/2024,Thursday,17:00,CDMX - Pachuca,Sur,Ejecutivo,24,17.0,70.8,209.0,3553.0,Baja
 ADO-01293,16-01-2024,Tuesday,12:00,CDMX-Querétaro,Poniente,ADO GL,48,31.0,64.6,320.0,9920.0,Alta
 ADO-00539,2024-03-26,Tuesday,12:00,CDMX-Querétaro,TAPO,Primera Plus,36,27.0,75.0,352.0,9504.0,Baja
-ADO-01449,2024/08/04,Sunday,14:00,cdmx - puebla,Sur,ADO GL,48,54.85351014252048,114.278146130251,266.0,12502.0,Alta
+ADO-01449,2024/08/04,Sunday,14:00,cdmx - puebla,Sur,ADO GL,48,61.1,97.9,266.0,12502.0,Alta
 ADO-00950,2024-08-08,Thursday,09:00,CDMX-Querétaro,Norte,OCC,42,34.0,81.0,320.0,10880.0,Alta
 ADO-00084,2024/08/26,Monday,07:00,CDMX-Toluca,Sur,Primera Plus,36,,72.2,198.0,5148.0,Alta
 ADO-00943,2024-11-13,Wednesday,07:00,cdmx - puebla,Observatorio,Primera Plus,36,31.0,86.1,266.0,8246.0,Baja
@@ -965,7 +965,7 @@ ADO-02403,2024-09-19,Thursday,21:00,CDMX-Cuernavaca,Sur,Ejecutivo,24,14.0,58.3,2
 ADO-00916,2024-11-27,Wednesday,10:00,CDMX-Puebla,Sur,OCC,42,28.0,66.7,280.0,7840.0,Baja
 ADO-02362,25/05/2024,Saturday,13:00,CDMX-Toluca,Poniente,Primera Plus,36,24.0,66.7,216.0,5184.0,Baja
 ADO-00278,2024-01-29,Monday,22:00,cdmx - puebla,Norte,Primera Plus,36,20.0,55.6,280.0,5600.0,Alta
-ADO-01045,09/02/2024,Friday,12:00,  CDMX-Cuernavaca  ,TAPO,Primera Plus,36,22.0,61.1,264.0,5808.0,Baja
+ADO-01045,09/02/2024,Friday,12:00,CDMX-Cuernavaca,TAPO,Primera Plus,36,22.0,61.1,264.0,5808.0,Baja
 ADO-00222,01/02/2024,Thursday,09:00,CDMX - Toluca,TAPO,ADO GL,48,27.0,56.2,216.0,5832.0,Baja
 ADO-01162,2024-02-12,Monday,20:00,CDMX-Queretaro,TAPO,OCC,42,38.0,90.5,352.0,13376.0,Baja
 ADO-00572,2024-06-06,Thursday,16:00,CDMX-Toluca,Norte,ADO GL,48,40.0,83.3,216.0,8640.0,Baja
@@ -975,7 +975,7 @@ ADO-00994,19/08/2024,Monday,13:00,CDMX - Toluca,Observatorio,Ejecutivo,24,13.0,5
 ADO-01816,27/12/2024,Friday,22:00,CDMX-Tlaxcala,Poniente,ADO GL,48,26.0,54.2,288.0,7488.0,Alta
 ADO-00586,04/03/2024,Monday,07:00,cdmx-queretaro,Norte,OCC,42,,81.0,384.0,13056.0,Baja
 ADO-01938,2024-09-25,Wednesday,20:00,CDMX-cuernavaca,TAPO,,24,16.0,66.7,220.0,3520.0,Baja
-ADO-01126,2024-07-07,Sunday,18:00,  CDMX - Puebla  ,Observatorio,OCC,42,36.0,85.7,280.0,10080.0,Alta
+ADO-01126,2024-07-07,Sunday,18:00,CDMX - Puebla,Observatorio,OCC,42,36.0,85.7,280.0,10080.0,Alta
 ADO-01565,14/09/2024,Saturday,22:00,cdmx - puebla,TAPO,Primera Plus,36,33.0,91.7,336.0,11088.0,Baja
 ADO-01600,2024/12/18,Wednesday,19:00,CDMX-Pachuca,Observatorio,ADO GL,48,34.0,70.8,190.0,6460.0,Alta
 ADO-00675,2024/09/20,Friday,20:00,CDMX - Puebla,Poniente,Primera Plus,36,17.0,47.2,336.0,5712.0,Baja
@@ -1003,7 +1003,7 @@ ADO-00258,2024-09-11,Wednesday,22:00,cdmx-queretaro,TAPO,ADO GL,48,27.0,56.2,304
 ADO-01424,03/12/2024,Tuesday,06:00,CDMX - Puebla,Norte,OCC,42,23.0,54.8,308.0,7084.0,Alta
 ADO-01299,2024-06-11,Tuesday,19:00,CDMX-cuernavaca,TAPO,Primera Plus,36,29.0,80.6,264.0,7656.0,Baja
 ADO-00927,2024-03-27,Wednesday,07:00,CDMX-cuernavaca,Observatorio,ADO GL,48,35.0,72.9,220.0,7700.0,Baja
-ADO-02137,2024-11-03,Sunday,11:00,  cdmx-queretaro  ,Poniente,OCC,42,36.0,85.7,384.0,13824.0,Baja
+ADO-02137,2024-11-03,Sunday,11:00,cdmx-queretaro,Poniente,OCC,42,36.0,85.7,384.0,13824.0,Baja
 ADO-01365,21-01-2024,Sunday,19:00,CDMX-Cuernavaca,TAPO,ADO GL,48,,100.0,220.0,10560.0,Alta
 ADO-00437,06/05/2024,Monday,18:00,CDMX-Tlaxcala,Poniente,OCC,42,,97.6,288.0,11808.0,Baja
 ADO-01698,2024/04/12,Friday,15:00,CDMX-Queretaro,Norte,Ejecutivo,24,13.0,54.2,384.0,4992.0,Baja
@@ -1026,7 +1026,7 @@ ADO-02231,2024/07/16,Tuesday,06:00,CDMX-Toluca,Norte,,36,20.0,55.6,198.0,3960.0,
 ADO-01448,04/11/2024,Monday,12:00,CDMX-Cuernavaca,Norte,ADO GL,48,34.0,70.8,220.0,,Baja
 ADO-00557,2024-12-18,Wednesday,15:00,cdmx - puebla,Sur,Ejecutivo,24,14.0,58.3,280.0,3920.0,Alta
 ADO-01603,2024-12-07,Saturday,19:00,CDMX-Queretaro,Poniente,Primera Plus,36,33.0,91.7,352.0,11616.0,Alta
-ADO-01625,2024-04-20,Saturday,09:00,  cdmx-queretaro  ,TAPO,Primera Plus,36,36.0,100.0,320.0,11520.0,Baja
+ADO-01625,2024-04-20,Saturday,09:00,cdmx-queretaro,TAPO,Primera Plus,36,36.0,100.0,320.0,11520.0,Baja
 ADO-02248,2024-01-31,Wednesday,13:00,CDMX - Toluca,TAPO,Primera Plus,36,17.0,47.2,180.0,,Alta
 ADO-00571,2024-10-13,Sunday,11:00,CDMX-Tlaxcala,TAPO,ADO GL,48,40.0,83.3,240.0,9600.0,Baja
 ADO-00353,2024-06-25,Tuesday,18:00,CDMX-Pachuca,Sur,ADO GL,48,,89.6,209.0,8987.0,Baja
@@ -1035,7 +1035,7 @@ ADO-02125,2024-09-17,Tuesday,10:00,CDMX-Toluca,TAPO,ADO GL,48,31.0,64.6,216.0,66
 ADO-02112,20-05-2024,Monday,21:00,CDMX-Puebla,Poniente,Primera Plus,36,,61.1,280.0,6160.0,Baja
 ADO-01436,2024-10-20,Sunday,14:00,CDMX - Toluca,Observatorio,Ejecutivo,24,21.0,87.5,180.0,3780.0,Baja
 ADO-01937,09/09/2024,Monday,14:00,CDMX-Toluca,Sur,ADO GL,48,32.0,66.7,171.0,5472.0,Baja
-ADO-02292,2024-12-25,Wednesday,13:00,  CDMX - Toluca  ,Norte,,24,18.0,75.0,180.0,3240.0,Alta
+ADO-02292,2024-12-25,Wednesday,13:00,CDMX - Toluca,Norte,,24,18.0,75.0,180.0,3240.0,Alta
 ADO-00349,2024-10-03,Thursday,07:00,CDMX-Querétaro,Observatorio,Primera Plus,36,25.0,69.4,320.0,8000.0,Baja
 ADO-01118,2024-04-30,Tuesday,12:00,CDMX-Queretaro,Sur,Primera Plus,36,23.0,63.9,304.0,6992.0,Baja
 ADO-01894,2024-03-08,Friday,07:00,CDMX-Queretaro,Norte,OCC,42,,78.6,320.0,10560.0,Baja
@@ -1132,7 +1132,7 @@ ADO-00894,01-04-2024,Monday,20:00,CDMX - Pachuca,Norte,ADO GL,48,37.0,77.1,190.0
 ADO-02442,2024-07-05,Friday,18:00,CDMX - Puebla,Norte,,36,34.0,94.4,280.0,9520.0,Alta
 ADO-00016,2024-03-11,Monday,21:00,CDMX-Cuernavaca,TAPO,,24,13.0,54.2,220.0,2860.0,Baja
 ADO-00722,2024-06-24,Monday,11:00,cdmx - puebla,Norte,OCC,42,18.0,42.9,280.0,5040.0,Baja
-ADO-02209,2024/09/19,Thursday,19:00,  CDMX-Tlaxcala  ,Norte,OCC,42,32.0,76.2,240.0,7680.0,Baja
+ADO-02209,2024/09/19,Thursday,19:00,CDMX-Tlaxcala,Norte,OCC,42,32.0,76.2,240.0,7680.0,Baja
 ADO-00982,30/04/2024,Tuesday,20:00,CDMX - Pachuca,Sur,ADO GL,48,33.0,68.8,190.0,6270.0,Baja
 ADO-02123,2024-01-15,Monday,21:00,CDMX - Pachuca,Poniente,OCC,42,27.0,64.3,209.0,5643.0,Alta
 ADO-02018,06/11/2024,Wednesday,18:00,CDMX-cuernavaca,TAPO,Ejecutivo,24,13.0,54.2,220.0,2860.0,Baja
@@ -1184,7 +1184,7 @@ ADO-02110,2024/03/09,Saturday,09:00,CDMX-Toluca,Observatorio,ADO GL,48,48.0,100.
 ADO-02099,2024-06-17,Monday,15:00,cdmx - puebla,TAPO,OCC,42,19.0,45.2,266.0,5054.0,Baja
 ADO-01200,21/09/2024,Saturday,17:00,CDMX-Tlaxcala,Sur,Ejecutivo,24,24.0,100.0,240.0,5760.0,Baja
 ADO-02117,30-04-2024,Tuesday,17:00,cdmx-queretaro,Poniente,Ejecutivo,24,,75.0,320.0,5760.0,Baja
-ADO-00817,29/04/2024,Monday,17:00,  CDMX-Querétaro  ,TAPO,,36,29.0,80.6,320.0,9280.0,Baja
+ADO-00817,29/04/2024,Monday,17:00,CDMX-Querétaro,TAPO,,36,29.0,80.6,320.0,9280.0,Baja
 ADO-01068,2024-08-07,Wednesday,08:00,CDMX-Querétaro,Norte,OCC,42,39.0,92.9,320.0,12480.0,Alta
 ADO-00275,2024-07-22,Monday,21:00,CDMX - Pachuca,Sur,OCC,42,22.0,52.4,228.0,5016.0,Alta
 ADO-01742,2024-10-15,Tuesday,07:00,CDMX-cuernavaca,TAPO,ADO GL,48,37.0,77.1,242.0,8954.0,Baja
@@ -1197,14 +1197,14 @@ ADO-01519,2024-07-21,Sunday,20:00,CDMX - Puebla,Sur,Primera Plus,36,26.0,72.2,28
 ADO-01395,24/06/2024,Monday,13:00,CDMX-Puebla,Sur,OCC,42,25.0,59.5,266.0,6650.0,Baja
 ADO-01252,2024-06-13,Thursday,12:00,cdmx-queretaro,Observatorio,OCC,42,31.0,73.8,320.0,9920.0,Baja
 ADO-01962,2024-08-02,Friday,12:00,CDMX-Toluca,Observatorio,Ejecutivo,24,16.0,66.7,180.0,2880.0,Alta
-ADO-01756,04/10/2024,Friday,09:00,  CDMX-Cuernavaca  ,Norte,Ejecutivo,24,23.0,95.8,242.0,5566.0,Baja
+ADO-01756,04/10/2024,Friday,09:00,CDMX-Cuernavaca,Norte,Ejecutivo,24,23.0,95.8,242.0,5566.0,Baja
 ADO-01248,2024-12-14,Saturday,17:00,CDMX-Toluca,Observatorio,Primera Plus,36,32.0,88.9,216.0,,Alta
 ADO-01584,2024-01-20,Saturday,10:00,CDMX-Cuernavaca,Poniente,OCC,42,,85.7,209.0,7524.0,Alta
 ADO-00713,2024-07-26,Friday,12:00,CDMX-cuernavaca,TAPO,Ejecutivo,24,14.0,58.3,220.0,3080.0,Alta
 ADO-00073,2024-06-20,Thursday,13:00,cdmx - puebla,Poniente,ADO GL,48,30.0,62.5,280.0,8400.0,Baja
 ADO-02210,2024-05-13,Monday,12:00,CDMX-Cuernavaca,Norte,OCC,42,27.0,64.3,220.0,5940.0,Baja
 ADO-02423,2024-05-04,Saturday,21:00,CDMX - Puebla,Norte,Ejecutivo,24,19.0,79.2,280.0,5320.0,Baja
-ADO-00482,13/01/2024,Saturday,17:00,  CDMX-Querétaro  ,Norte,Ejecutivo,24,21.0,87.5,320.0,,Alta
+ADO-00482,13/01/2024,Saturday,17:00,CDMX-Querétaro,Norte,Ejecutivo,24,21.0,87.5,320.0,,Alta
 ADO-02275,17/07/2024,Wednesday,09:00,CDMX-Tlaxcala,Poniente,Primera Plus,36,24.0,66.7,288.0,6912.0,Alta
 ADO-01455,2024-06-19,Wednesday,14:00,CDMX-Tlaxcala,Poniente,Primera Plus,36,25.0,69.4,240.0,6000.0,Baja
 ADO-01172,2024-12-10,Tuesday,18:00,CDMX - Pachuca,TAPO,ADO GL,48,40.0,83.3,190.0,7600.0,Alta
@@ -1284,7 +1284,7 @@ ADO-00940,2024-04-09,Tuesday,16:00,CDMX-Cuernavaca,Norte,Primera Plus,36,20.0,55
 ADO-02345,13/10/2024,Sunday,10:00,CDMX-Pachuca,Norte,OCC,42,24.0,57.1,190.0,4560.0,Baja
 ADO-01250,2024-03-12,Tuesday,14:00,CDMX - Pachuca,Poniente,OCC,42,19.0,45.2,228.0,4332.0,Baja
 ADO-00905,2024/06/15,Saturday,09:00,CDMX-Cuernavaca,Poniente,OCC,42,42.0,100.0,220.0,9240.0,Baja
-ADO-01280,2024-10-30,Wednesday,12:00,  CDMX-Tlaxcala  ,Observatorio,Primera Plus,36,22.0,61.1,240.0,5280.0,Baja
+ADO-01280,2024-10-30,Wednesday,12:00,CDMX-Tlaxcala,Observatorio,Primera Plus,36,22.0,61.1,240.0,5280.0,Baja
 ADO-01990,2024-07-23,Tuesday,09:00,CDMX-Pachuca,Observatorio,ADO GL,48,40.0,83.3,190.0,7600.0,Alta
 ADO-02418,2024-10-31,Thursday,13:00,CDMX-Tlaxcala,TAPO,Primera Plus,36,24.0,66.7,264.0,6336.0,Baja
 ADO-01515,30/05/2024,Thursday,07:00,cdmx-queretaro,Norte,Ejecutivo,24,18.0,75.0,320.0,5760.0,Baja
@@ -1295,7 +1295,7 @@ ADO-00707,2024-02-16,Friday,21:00,CDMX - Puebla,TAPO,OCC,42,20.0,47.6,280.0,5600
 ADO-01023,16/09/2024,Monday,15:00,cdmx-queretaro,Norte,OCC,42,27.0,64.3,384.0,10368.0,Baja
 ADO-00746,2024-07-04,Thursday,22:00,CDMX - Pachuca,Sur,OCC,42,23.0,54.8,190.0,4370.0,Alta
 ADO-01872,2024-05-03,Friday,18:00,CDMX-Cuernavaca,Sur,OCC,42,32.0,76.2,209.0,6688.0,Baja
-ADO-01462,2024-04-03,Wednesday,17:00,CDMX - Toluca,Observatorio,OCC,42,0.0,64.3,180.0,4860.0,Baja
+ADO-01462,2024-04-03,Wednesday,17:00,CDMX - Toluca,Observatorio,OCC,42,27.0,64.3,180.0,4860.0,Baja
 ADO-00514,2024-07-10,Wednesday,18:00,CDMX - Pachuca,Norte,Ejecutivo,24,16.0,66.7,190.0,3040.0,Alta
 ADO-00082,2024-06-12,Wednesday,08:00,CDMX-Cuernavaca,Poniente,Primera Plus,36,30.0,83.3,220.0,6600.0,Baja
 ADO-02234,2024-08-29,Thursday,14:00,CDMX - Puebla,Poniente,ADO GL,48,36.0,75.0,280.0,10080.0,Alta
@@ -1316,7 +1316,7 @@ ADO-00165,2024/10/03,Thursday,22:00,cdmx-queretaro,Poniente,ADO GL,48,36.0,75.0,
 ADO-00452,2024-03-09,Saturday,10:00,CDMX-Pachuca,Observatorio,Ejecutivo,24,23.0,95.8,228.0,5244.0,Baja
 ADO-00491,15/05/2024,Wednesday,08:00,cdmx - puebla,Norte,Primera Plus,36,28.0,77.8,266.0,7448.0,Baja
 ADO-01946,21/11/2024,Thursday,09:00,cdmx-queretaro,Poniente,Primera Plus,36,,75.0,320.0,8640.0,Baja
-ADO-01144,27/04/2024,Saturday,07:00,CDMX - Puebla,Norte,OCC,42,0.0,100.0,280.0,11760.0,Baja
+ADO-01144,27/04/2024,Saturday,07:00,CDMX - Puebla,Norte,OCC,42,42.0,100.0,280.0,11760.0,Baja
 ADO-01312,06/02/2024,Tuesday,07:00,cdmx-queretaro,Norte,Primera Plus,36,32.0,88.9,320.0,10240.0,Baja
 ADO-01738,2024-02-08,Thursday,13:00,CDMX-Cuernavaca,Sur,ADO GL,48,25.0,52.1,264.0,6600.0,Baja
 ADO-01112,2024-05-20,Monday,19:00,CDMX - Toluca,Observatorio,ADO GL,48,39.0,81.2,180.0,7020.0,Baja
@@ -1348,7 +1348,7 @@ ADO-01727,03-08-2024,Saturday,07:00,cdmx - puebla,TAPO,ADO GL,48,,91.7,280.0,123
 ADO-01611,11/06/2024,Tuesday,11:00,CDMX-Cuernavaca,Poniente,OCC,42,25.0,59.5,220.0,5500.0,Baja
 ADO-01246,2024-10-11,Friday,07:00,CDMX - Toluca,Sur,Ejecutivo,24,15.0,62.5,216.0,,Baja
 ADO-00114,28-01-2024,Sunday,15:00,CDMX-Cuernavaca,Sur,Primera Plus,36,36.0,100.0,220.0,7920.0,Alta
-ADO-02361,17/10/2024,Thursday,06:00,  CDMX-Puebla  ,Norte,Ejecutivo,24,12.0,50.0,336.0,4032.0,Baja
+ADO-02361,17/10/2024,Thursday,06:00,CDMX-Puebla,Norte,Ejecutivo,24,12.0,50.0,336.0,4032.0,Baja
 ADO-00988,22/08/2024,Thursday,11:00,CDMX-Toluca,Poniente,ADO GL,48,36.0,75.0,180.0,6480.0,Alta
 ADO-01928,2024-02-29,Thursday,20:00,CDMX-cuernavaca,Sur,ADO GL,48,29.0,60.4,209.0,6061.0,Baja
 ADO-01608,2024/09/22,Sunday,16:00,CDMX - Pachuca,Poniente,ADO GL,48,48.0,100.0,228.0,10944.0,Baja
@@ -1359,7 +1359,7 @@ ADO-00769,07/01/2024,Sunday,13:00,cdmx - puebla,Sur,OCC,42,32.0,76.2,280.0,8960.
 ADO-00018,27-08-2024,Tuesday,14:00,CDMX-Cuernavaca,TAPO,Ejecutivo,24,16.0,66.7,209.0,3344.0,Alta
 ADO-01043,2024-12-20,Friday,17:00,CDMX - Puebla,TAPO,Primera Plus,36,33.0,91.7,280.0,9240.0,Alta
 ADO-02065,2024-01-08,Monday,07:00,CDMX - Puebla,Poniente,Primera Plus,36,29.0,80.6,308.0,8932.0,Alta
-ADO-00286,13/08/2024,Tuesday,21:00,  CDMX-Toluca  ,Poniente,OCC,42,17.0,40.5,180.0,3060.0,Alta
+ADO-00286,13/08/2024,Tuesday,21:00,CDMX-Toluca,Poniente,OCC,42,17.0,40.5,180.0,3060.0,Alta
 ADO-00429,2024/10/05,Saturday,07:00,cdmx-queretaro,Observatorio,OCC,42,42.0,100.0,320.0,13440.0,Baja
 ADO-01965,2024-11-30,Saturday,22:00,CDMX-Toluca,Poniente,Primera Plus,36,33.0,91.7,198.0,6534.0,Baja
 ADO-01390,2024-02-05,Monday,19:00,CDMX-Tlaxcala,Norte,OCC,42,29.0,69.0,228.0,,Baja
@@ -1399,7 +1399,7 @@ ADO-01753,2024-03-03,Sunday,08:00,CDMX-Pachuca,Norte,Ejecutivo,24,22.0,91.7,228.
 ADO-01515,30/05/2024,Thursday,07:00,cdmx-queretaro,Norte,Ejecutivo,24,18.0,75.0,320.0,5760.0,Baja
 ADO-01829,2024-06-14,Friday,16:00,CDMX-Queretaro,Sur,OCC,42,26.0,61.9,352.0,9152.0,Baja
 ADO-02025,2024/12/12,Thursday,14:00,CDMX - Pachuca,Observatorio,ADO GL,48,13.0,27.1,180.5,2346.5,Alta
-ADO-02261,12/03/2024,Tuesday,09:00,  CDMX - Puebla  ,Poniente,Primera Plus,36,30.0,83.3,280.0,8400.0,Baja
+ADO-02261,12/03/2024,Tuesday,09:00,CDMX - Puebla,Poniente,Primera Plus,36,30.0,83.3,280.0,8400.0,Baja
 ADO-00939,10/05/2024,Friday,18:00,CDMX-Pachuca,Poniente,OCC,42,34.0,81.0,180.5,6137.0,Baja
 ADO-02263,2024-10-06,Sunday,22:00,CDMX-Puebla,Sur,OCC,42,41.0,97.6,266.0,10906.0,Baja
 ADO-00347,2024-01-09,Tuesday,12:00,CDMX-Querétaro,TAPO,Ejecutivo,24,11.0,45.8,384.0,,Alta
@@ -1419,14 +1419,14 @@ ADO-01560,04/10/2024,Friday,08:00,cdmx - puebla,Observatorio,Primera Plus,36,27.
 ADO-01333,2024-03-14,Thursday,08:00,CDMX - Toluca,Observatorio,OCC,42,32.0,76.2,180.0,5760.0,Baja
 ADO-00969,2024-06-20,Thursday,09:00,cdmx - puebla,Poniente,,48,38.0,79.2,308.0,11704.0,Baja
 ADO-00661,09-05-2024,Thursday,09:00,CDMX-Querétaro,Observatorio,Primera Plus,36,26.0,72.2,320.0,8320.0,Baja
-ADO-00936,2024/08/30,Friday,10:00,  CDMX-Queretaro  ,TAPO,OCC,42,24.0,57.1,320.0,7680.0,Alta
+ADO-00936,2024/08/30,Friday,10:00,CDMX-Queretaro,TAPO,OCC,42,24.0,57.1,320.0,7680.0,Alta
 ADO-00371,2024-07-10,Wednesday,21:00,CDMX-Puebla,TAPO,OCC,42,27.0,64.3,280.0,7560.0,Alta
 ADO-00567,2024-05-31,Friday,19:00,CDMX-Queretaro,Sur,OCC,42,23.0,54.8,304.0,6992.0,Baja
 ADO-02002,2024-09-14,Saturday,20:00,CDMX-Queretaro,Poniente,Ejecutivo,24,19.0,79.2,352.0,6688.0,Baja
 ADO-00825,2024-07-13,Saturday,09:00,CDMX-Cuernavaca,Sur,ADO GL,48,45.0,93.8,264.0,11880.0,Alta
 ADO-00983,2024-06-15,Saturday,09:00,CDMX-Querétaro,Poniente,ADO GL,48,42.0,87.5,320.0,13440.0,Baja
 ADO-02024,2024-04-04,Thursday,20:00,cdmx-queretaro,Sur,,36,17.0,47.2,320.0,5440.0,Baja
-ADO-01507,10/09/2024,Tuesday,22:00,  CDMX-Pachuca  ,Poniente,Ejecutivo,24,17.0,70.8,209.0,3553.0,Baja
+ADO-01507,10/09/2024,Tuesday,22:00,CDMX-Pachuca,Poniente,Ejecutivo,24,17.0,70.8,209.0,3553.0,Baja
 ADO-02167,2024-10-18,Friday,10:00,CDMX-Puebla,Norte,ADO GL,48,26.0,54.2,280.0,7280.0,Baja
 ADO-01747,2024-12-22,Sunday,19:00,CDMX - Puebla,Observatorio,OCC,42,42.0,100.0,280.0,11760.0,Alta
 ADO-00814,2024-08-08,Thursday,08:00,cdmx-queretaro,Sur,Ejecutivo,24,19.0,79.2,352.0,6688.0,Alta
@@ -1459,7 +1459,7 @@ ADO-00218,2024-11-19,Tuesday,14:00,CDMX-Queretaro,Norte,Ejecutivo,24,14.0,58.3,3
 ADO-02067,2024-10-22,Tuesday,20:00,CDMX-Toluca,Sur,,36,12.0,33.3,216.0,2592.0,Baja
 ADO-02175,11/01/2024,Thursday,21:00,CDMX-Pachuca,Norte,OCC,42,23.0,54.8,180.5,4151.5,Alta
 ADO-02237,2024-02-24,Saturday,16:00,cdmx - puebla,Observatorio,OCC,42,35.0,83.3,280.0,9800.0,Baja
-ADO-01741,17-06-2024,Monday,07:00,  CDMX-Tlaxcala  ,Sur,Primera Plus,36,28.0,77.8,240.0,6720.0,Baja
+ADO-01741,17-06-2024,Monday,07:00,CDMX-Tlaxcala,Sur,Primera Plus,36,28.0,77.8,240.0,6720.0,Baja
 ADO-01489,22/02/2024,Thursday,22:00,CDMX - Pachuca,Poniente,Primera Plus,36,16.0,44.4,228.0,3648.0,Baja
 ADO-00023,27-02-2024,Tuesday,15:00,cdmx-queretaro,TAPO,Primera Plus,36,23.0,63.9,320.0,7360.0,Baja
 ADO-00712,01/01/2024,Monday,08:00,CDMX - Puebla,Sur,ADO GL,48,37.0,77.1,280.0,10360.0,Alta
@@ -1504,7 +1504,7 @@ ADO-02401,2024-03-15,Friday,09:00,CDMX-Pachuca,Norte,ADO GL,48,34.0,70.8,190.0,6
 ADO-01121,2024-02-03,Saturday,19:00,cdmx-queretaro,Sur,ADO GL,48,48.0,100.0,304.0,-14592.0,Baja
 ADO-01609,2024-05-03,Friday,18:00,CDMX-Cuernavaca,Observatorio,Primera Plus,36,30.0,83.3,209.0,6270.0,Baja
 ADO-00550,06-04-2024,Saturday,12:00,CDMX - Toluca,Sur,OCC,42,32.0,76.2,216.0,6912.0,Baja
-ADO-00157,2024/12/12,Thursday,11:00,CDMX-Cuernavaca,Sur,Ejecutivo,24,27.42675507126024,114.278146130251,220.0,4400.0,Alta
+ADO-00157,2024/12/12,Thursday,11:00,CDMX-Cuernavaca,Sur,Ejecutivo,24,26.0,83.3,220.0,4400.0,Alta
 ADO-00420,2024-12-10,Tuesday,15:00,CDMX - Pachuca,Poniente,Ejecutivo,24,15.0,62.5,190.0,2850.0,Alta
 ADO-00923,2024/08/29,Thursday,08:00,CDMX-Pachuca,Observatorio,ADO GL,48,39.0,81.2,190.0,7410.0,Alta
 ADO-02146,2024-08-10,Saturday,08:00,CDMX-Toluca,TAPO,OCC,42,42.0,100.0,198.0,8316.0,Alta
@@ -1522,10 +1522,10 @@ ADO-02285,2024-04-14,Sunday,06:00,cdmx - puebla,Poniente,OCC,42,33.0,78.6,280.0,
 ADO-00821,2024-03-13,Wednesday,06:00,CDMX - Pachuca,Observatorio,OCC,42,24.0,57.1,180.5,4332.0,Baja
 ADO-02411,2024-07-15,Monday,18:00,CDMX-Queretaro,TAPO,Primera Plus,36,32.0,88.9,320.0,10240.0,Alta
 ADO-01007,29-09-2024,Sunday,20:00,CDMX-Queretaro,TAPO,ADO GL,48,45.0,93.8,320.0,14400.0,Baja
-ADO-01249,23/03/2024,Saturday,08:00,  CDMX - Pachuca  ,TAPO,ADO GL,48,48.0,100.0,209.0,10032.0,Baja
+ADO-01249,23/03/2024,Saturday,08:00,CDMX - Pachuca,TAPO,ADO GL,48,48.0,100.0,209.0,10032.0,Baja
 ADO-01674,2024/02/05,Monday,11:00,CDMX - Puebla,Sur,ADO GL,48,25.0,52.1,280.0,7000.0,Baja
 ADO-00665,2024-11-11,Monday,15:00,CDMX-Pachuca,Observatorio,Primera Plus,36,20.0,55.6,228.0,4560.0,Baja
-ADO-02233,2024-12-04,Wednesday,10:00,CDMX - Puebla,Poniente,Primera Plus,36,41.14013260689036,114.278146130251,280.0,3920.0,Alta
+ADO-02233,2024-12-04,Wednesday,10:00,CDMX - Puebla,Poniente,Primera Plus,36,18.2,38.9,280.0,3920.0,Alta
 ADO-00143,2024-01-02,Tuesday,15:00,CDMX-Queretaro,Poniente,OCC,42,19.0,45.2,352.0,,Alta
 ADO-02193,2024-04-19,Friday,08:00,CDMX-Queretaro,Observatorio,ADO GL,48,48.0,100.0,320.0,15360.0,Baja
 ADO-01868,2024-10-30,Wednesday,14:00,CDMX-cuernavaca,Poniente,OCC,42,32.0,76.2,220.0,7040.0,Baja
@@ -1537,7 +1537,7 @@ ADO-00296,2024-01-27,Saturday,12:00,CDMX-cuernavaca,Observatorio,ADO GL,48,36.0,
 ADO-00402,2024-02-05,Monday,19:00,CDMX-Tlaxcala,Poniente,OCC,42,30.0,71.4,228.0,6840.0,Baja
 ADO-00089,2024-09-30,Monday,18:00,CDMX-Puebla,TAPO,Ejecutivo,24,17.0,70.8,266.0,4522.0,Baja
 ADO-02440,24/05/2024,Friday,16:00,CDMX-Tlaxcala,Observatorio,ADO GL,48,21.0,43.8,240.0,,Baja
-ADO-02480,2024-05-23,Thursday,19:00,cdmx-queretaro,Observatorio,Ejecutivo,24,0.0,87.5,320.0,6720.0,Baja
+ADO-02480,2024-05-23,Thursday,19:00,cdmx-queretaro,Observatorio,Ejecutivo,24,21.0,87.5,320.0,6720.0,Baja
 ADO-00132,2024-08-11,Sunday,21:00,CDMX-Pachuca,Sur,Ejecutivo,24,20.0,83.3,190.0,3800.0,Alta
 ADO-01610,2024-01-27,Saturday,19:00,CDMX-Tlaxcala,Sur,Primera Plus,36,34.0,94.4,228.0,7752.0,Alta
 ADO-01599,10-07-2024,Wednesday,11:00,CDMX - Puebla,Sur,OCC,42,27.0,64.3,280.0,7560.0,Alta
@@ -1575,9 +1575,9 @@ ADO-00321,26/11/2024,Tuesday,08:00,CDMX-Puebla,Observatorio,Primera Plus,36,29.0
 ADO-02051,02-08-2024,Friday,11:00,CDMX - Puebla,Poniente,Primera Plus,36,26.0,72.2,280.0,7280.0,Alta
 ADO-00013,17-10-2024,Thursday,16:00,CDMX - Pachuca,Sur,Primera Plus,36,24.0,66.7,209.0,5016.0,Baja
 ADO-00898,2024-07-05,Friday,11:00,CDMX-Toluca,Norte,ADO GL,48,32.0,66.7,198.0,6336.0,Alta
-ADO-00172,2024-06-04,Tuesday,09:00,  CDMX - Toluca  ,Poniente,Ejecutivo,24,16.0,66.7,216.0,3456.0,Baja
+ADO-00172,2024-06-04,Tuesday,09:00,CDMX - Toluca,Poniente,Ejecutivo,24,16.0,66.7,216.0,3456.0,Baja
 ADO-00261,19-12-2024,Thursday,17:00,CDMX - Toluca,TAPO,OCC,42,28.0,66.7,171.0,4788.0,Alta
-ADO-02281,2024-01-16,Tuesday,07:00,  CDMX-cuernavaca  ,Norte,Ejecutivo,24,14.0,58.3,220.0,3080.0,Alta
+ADO-02281,2024-01-16,Tuesday,07:00,CDMX-cuernavaca,Norte,Ejecutivo,24,14.0,58.3,220.0,3080.0,Alta
 ADO-00690,03/09/2024,Tuesday,13:00,CDMX - Puebla,Observatorio,OCC,42,29.0,69.0,280.0,8120.0,Baja
 ADO-00902,2024-07-30,Tuesday,13:00,CDMX-Querétaro,Sur,Primera Plus,36,21.0,58.3,352.0,7392.0,Alta
 ADO-00259,2024-08-08,Thursday,11:00,CDMX-cuernavaca,Norte,ADO GL,48,33.0,68.8,220.0,7260.0,Alta
@@ -1595,7 +1595,7 @@ ADO-00113,2024-07-03,Wednesday,15:00,CDMX - Puebla,Observatorio,Ejecutivo,24,15.
 ADO-00532,22/11/2024,Friday,08:00,CDMX-Queretaro,TAPO,OCC,42,25.0,59.5,320.0,8000.0,Baja
 ADO-00225,2024-01-27,Saturday,16:00,CDMX-Tlaxcala,Norte,Ejecutivo,24,19.0,79.2,240.0,4560.0,Alta
 ADO-00724,03-05-2024,Friday,12:00,CDMX-Queretaro,Poniente,Primera Plus,36,26.0,72.2,320.0,,Baja
-ADO-02339,10/07/2024,Wednesday,20:00,CDMX-Toluca,Poniente,Primera Plus,36,41.14013260689036,114.278146130251,198.0,4554.0,Alta
+ADO-02339,10/07/2024,Wednesday,20:00,CDMX-Toluca,Poniente,Primera Plus,36,29.900000000000002,63.9,198.0,4554.0,Alta
 ADO-02155,2024-05-03,Friday,16:00,CDMX-Pachuca,Sur,Primera Plus,36,17.0,47.2,190.0,3230.0,Baja
 ADO-01434,2024-11-28,Thursday,14:00,CDMX-Toluca,Norte,OCC,42,24.0,57.1,180.0,4320.0,Baja
 ADO-00326,2024-08-22,Thursday,14:00,CDMX-Pachuca,TAPO,Primera Plus,36,18.0,50.0,180.5,3249.0,Alta
@@ -1628,7 +1628,7 @@ ADO-00543,17/10/2024,Thursday,09:00,CDMX-cuernavaca,Observatorio,Ejecutivo,24,20
 ADO-00243,2024-08-29,Thursday,10:00,CDMX - Pachuca,Sur,OCC,42,29.0,69.0,228.0,6612.0,Alta
 ADO-00899,03-02-2024,Saturday,09:00,CDMX - Toluca,Sur,ADO GL,48,48.0,100.0,198.0,9504.0,Baja
 ADO-02385,10-04-2024,Wednesday,08:00,CDMX-cuernavaca,TAPO,Ejecutivo,24,19.0,79.2,220.0,4180.0,Baja
-ADO-01161,17/12/2024,Tuesday,10:00,  CDMX - Pachuca  ,Observatorio,OCC,42,14.0,33.3,180.5,2527.0,Alta
+ADO-01161,17/12/2024,Tuesday,10:00,CDMX - Pachuca,Observatorio,OCC,42,14.0,33.3,180.5,2527.0,Alta
 ADO-01875,2024-05-08,Wednesday,09:00,CDMX-Pachuca,Norte,OCC,42,40.0,95.2,190.0,7600.0,Baja
 ADO-02109,2024-12-05,Thursday,14:00,CDMX-Toluca,Norte,Primera Plus,36,21.0,58.3,216.0,4536.0,Alta
 ADO-01729,2024-08-18,Sunday,10:00,CDMX-Toluca,Poniente,Primera Plus,36,32.0,88.9,180.0,5760.0,Alta
@@ -1652,7 +1652,7 @@ ADO-01889,2024-09-15,Sunday,11:00,CDMX-Toluca,Norte,Ejecutivo,24,,79.2,180.0,342
 ADO-00692,2024-08-20,Tuesday,08:00,CDMX-cuernavaca,Sur,Primera Plus,36,33.0,91.7,242.0,7986.0,Alta
 ADO-01542,2024-09-11,Wednesday,21:00,CDMX-Cuernavaca,Sur,Primera Plus,36,31.0,86.1,220.0,6820.0,Baja
 ADO-00613,2024-02-16,Friday,15:00,CDMX-Tlaxcala,Sur,Primera Plus,36,24.0,66.7,240.0,5760.0,Baja
-ADO-00425,2024-07-15,Monday,22:00,CDMX-Cuernavaca,Sur,OCC,42,47.99682137470542,114.278146130251,209.0,6270.0,Alta
+ADO-00425,2024-07-15,Monday,22:00,CDMX-Cuernavaca,Sur,OCC,42,39.0,71.4,209.0,6270.0,Alta
 ADO-01578,2024-12-15,Sunday,07:00,CDMX-Puebla,Observatorio,Primera Plus,36,36.0,100.0,280.0,10080.0,Alta
 ADO-00595,2024/02/08,Thursday,09:00,CDMX - Pachuca,Poniente,ADO GL,48,44.0,91.7,209.0,9196.0,Baja
 ADO-02496,2024-03-04,Monday,19:00,CDMX - Pachuca,Observatorio,ADO GL,48,43.0,89.6,209.0,8987.0,Baja
@@ -1677,17 +1677,17 @@ ADO-00537,2024-07-17,Wednesday,19:00,CDMX-Cuernavaca,Observatorio,OCC,42,29.0,69
 ADO-00812,2024-12-23,Monday,10:00,CDMX - Puebla,Observatorio,OCC,42,25.0,59.5,280.0,7000.0,Alta
 ADO-01777,01-02-2024,Thursday,14:00,CDMX - Pachuca,TAPO,ADO GL,48,27.0,56.2,180.5,4873.5,Baja
 ADO-01498,09-10-2024,Wednesday,10:00,CDMX-Tlaxcala,Norte,ADO GL,48,38.0,79.2,228.0,8664.0,Baja
-ADO-00086,01/06/2024,Saturday,18:00,  CDMX-Tlaxcala  ,Observatorio,OCC,42,,92.9,228.0,8892.0,Baja
+ADO-00086,01/06/2024,Saturday,18:00,CDMX-Tlaxcala,Observatorio,OCC,42,,92.9,228.0,8892.0,Baja
 ADO-01255,2024-11-28,Thursday,08:00,CDMX-Pachuca,Sur,Ejecutivo,24,22.0,91.7,180.5,3971.0,Baja
 ADO-02084,16/06/2024,Sunday,09:00,CDMX-Puebla,Observatorio,ADO GL,48,34.0,70.8,280.0,9520.0,Baja
 ADO-02064,2024/12/04,Wednesday,07:00,CDMX - Puebla,TAPO,OCC,42,33.0,78.6,280.0,9240.0,Alta
 ADO-02422,2024-07-04,Thursday,18:00,CDMX-Toluca,Observatorio,OCC,42,39.0,92.9,180.0,7020.0,Alta
 ADO-01709,2024-11-05,Tuesday,22:00,cdmx - puebla,Poniente,Ejecutivo,24,15.0,62.5,280.0,4200.0,Baja
 ADO-00485,2024-04-28,Sunday,19:00,CDMX-Cuernavaca,Sur,ADO GL,48,43.0,89.6,209.0,8987.0,Baja
-ADO-01655,17-02-2024,Saturday,15:00,CDMX-Queretaro,Norte,Ejecutivo,24,27.42675507126024,114.278146130251,384.0,8064.0,Baja
+ADO-01655,17-02-2024,Saturday,15:00,CDMX-Queretaro,Norte,Ejecutivo,24,27.3,87.5,384.0,8064.0,Baja
 ADO-02245,10/01/2024,Wednesday,22:00,cdmx-queretaro,Sur,Ejecutivo,24,20.0,83.3,320.0,6400.0,Alta
 ADO-02406,23/09/2024,Monday,06:00,cdmx-queretaro,Sur,OCC,42,34.0,81.0,320.0,10880.0,Baja
-ADO-00739,2024-05-10,Friday,09:00,  CDMX - Toluca  ,Norte,OCC,42,41.0,97.6,180.0,7380.0,Baja
+ADO-00739,2024-05-10,Friday,09:00,CDMX - Toluca,Norte,OCC,42,41.0,97.6,180.0,7380.0,Baja
 ADO-01812,2024-05-31,Friday,09:00,cdmx - puebla,Sur,OCC,42,34.0,81.0,308.0,10472.0,Baja
 ADO-02207,2024/11/15,Friday,06:00,CDMX-Puebla,Sur,ADO GL,48,39.0,81.2,280.0,10920.0,Baja
 ADO-02482,2024-06-16,Sunday,08:00,CDMX - Puebla,Observatorio,Primera Plus,36,36.0,100.0,336.0,12096.0,Baja
@@ -1745,13 +1745,13 @@ ADO-00233,2024-04-02,Tuesday,11:00,CDMX - Pachuca,TAPO,OCC,42,27.0,64.3,209.0,56
 ADO-00645,28-02-2024,Wednesday,14:00,CDMX-Toluca,TAPO,,48,29.0,60.4,216.0,6264.0,Baja
 ADO-01961,2024-12-01,Sunday,09:00,CDMX - Puebla,Observatorio,OCC,42,41.0,97.6,266.0,10906.0,Alta
 ADO-02189,2024-10-21,Monday,12:00,CDMX-Tlaxcala,Sur,Primera Plus,36,21.0,58.3,240.0,5040.0,Baja
-ADO-01429,10/04/2024,Wednesday,06:00,  CDMX - Pachuca  ,Observatorio,ADO GL,48,29.0,60.4,190.0,5510.0,Baja
+ADO-01429,10/04/2024,Wednesday,06:00,CDMX - Pachuca,Observatorio,ADO GL,48,29.0,60.4,190.0,5510.0,Baja
 ADO-00534,2024-07-14,Sunday,11:00,cdmx-queretaro,TAPO,OCC,42,29.0,69.0,320.0,9280.0,Alta
 ADO-02190,2024-03-07,Thursday,21:00,CDMX-Tlaxcala,Observatorio,ADO GL,48,34.0,70.8,288.0,9792.0,Baja
 ADO-00604,13/08/2024,Tuesday,08:00,CDMX-Puebla,Norte,ADO GL,48,46.0,95.8,280.0,12880.0,Alta
 ADO-01490,2024-03-17,Sunday,09:00,CDMX-Querétaro,Sur,Primera Plus,36,36.0,100.0,320.0,11520.0,Baja
 ADO-01901,27/08/2024,Tuesday,07:00,CDMX-Queretaro,Observatorio,Ejecutivo,24,21.0,87.5,304.0,6384.0,Alta
-ADO-01427,2024-10-24,Thursday,07:00,  CDMX-Tlaxcala  ,Sur,ADO GL,48,48.0,100.0,228.0,10944.0,Baja
+ADO-01427,2024-10-24,Thursday,07:00,CDMX-Tlaxcala,Sur,ADO GL,48,48.0,100.0,228.0,10944.0,Baja
 ADO-01075,2024-05-08,Wednesday,21:00,CDMX - Toluca,Poniente,Primera Plus,36,27.0,75.0,180.0,4860.0,Baja
 ADO-02061,14-03-2024,Thursday,08:00,CDMX-Querétaro,Sur,Ejecutivo,24,,87.5,320.0,6720.0,Baja
 ADO-00061,23/07/2024,Tuesday,14:00,cdmx-queretaro,Norte,Ejecutivo,24,14.0,58.3,320.0,4480.0,Alta
@@ -1768,7 +1768,7 @@ ADO-01790,2024-07-28,Sunday,08:00,cdmx-queretaro,Observatorio,ADO GL,48,48.0,100
 ADO-01544,2024/01/09,Tuesday,21:00,cdmx-queretaro,TAPO,Primera Plus,36,21.0,58.3,320.0,6720.0,Alta
 ADO-01398,2024-05-16,Thursday,21:00,CDMX - Toluca,Observatorio,ADO GL,48,25.0,52.1,198.0,4950.0,Baja
 ADO-01845,05/05/2024,Sunday,06:00,CDMX-Toluca,Sur,OCC,42,36.0,85.7,180.0,6480.0,Baja
-ADO-00848,2024/05/26,Sunday,11:00,CDMX - Toluca,Norte,OCC,42,47.99682137470542,114.278146130251,216.0,9072.0,Baja
+ADO-00848,2024/05/26,Sunday,11:00,CDMX - Toluca,Norte,OCC,42,54.6,100.0,216.0,9072.0,Baja
 ADO-01207,2024/02/13,Tuesday,16:00,CDMX-Puebla,Poniente,OCC,42,23.0,54.8,336.0,7728.0,Baja
 ADO-02219,10/09/2024,Tuesday,11:00,CDMX-cuernavaca,Norte,OCC,42,37.0,88.1,209.0,7733.0,Baja
 ADO-00761,2024-09-21,Saturday,14:00,CDMX-Tlaxcala,Observatorio,ADO GL,48,37.0,77.1,240.0,8880.0,Baja
@@ -1826,7 +1826,7 @@ ADO-00919,2024-08-05,Monday,06:00,CDMX-cuernavaca,Poniente,OCC,42,25.0,59.5,209.
 ADO-01327,2024-07-16,Tuesday,12:00,CDMX-Queretaro,Norte,Primera Plus,36,19.0,52.8,304.0,5776.0,Alta
 ADO-02335,2024-11-17,Sunday,08:00,CDMX-Cuernavaca,Poniente,Primera Plus,36,36.0,100.0,264.0,9504.0,Baja
 ADO-02305,2024-12-21,Saturday,13:00,CDMX-Queretaro,Norte,OCC,42,42.0,100.0,320.0,13440.0,Alta
-ADO-02264,2024-02-15,Thursday,20:00,  CDMX-Querétaro  ,TAPO,Primera Plus,36,18.0,50.0,320.0,5760.0,Baja
+ADO-02264,2024-02-15,Thursday,20:00,CDMX-Querétaro,TAPO,Primera Plus,36,18.0,50.0,320.0,5760.0,Baja
 ADO-00763,2024-08-19,Monday,21:00,CDMX-Queretaro,Norte,Primera Plus,36,34.0,94.4,320.0,10880.0,Alta
 ADO-02134,2024-09-27,Friday,06:00,CDMX-Puebla,Sur,ADO GL,48,34.0,70.8,280.0,9520.0,Baja
 ADO-00990,07/09/2024,Saturday,21:00,CDMX-Querétaro,Norte,OCC,42,35.0,83.3,320.0,11200.0,Baja
@@ -1841,7 +1841,7 @@ ADO-00438,17/11/2024,Sunday,18:00,CDMX-Toluca,TAPO,OCC,42,35.0,83.3,171.0,5985.0
 ADO-00674,22/07/2024,Monday,22:00,cdmx-queretaro,Poniente,Ejecutivo,24,14.0,58.3,384.0,5376.0,Alta
 ADO-00250,2024-07-17,Wednesday,14:00,cdmx-queretaro,Norte,Ejecutivo,24,16.0,66.7,320.0,5120.0,Alta
 ADO-02240,2024-11-02,Saturday,22:00,CDMX - Puebla,Norte,ADO GL,48,44.0,91.7,266.0,11704.0,Baja
-ADO-01575,2024-08-14,Wednesday,10:00,  CDMX-Pachuca  ,Observatorio,Ejecutivo,24,16.0,66.7,209.0,3344.0,Alta
+ADO-01575,2024-08-14,Wednesday,10:00,CDMX-Pachuca,Observatorio,Ejecutivo,24,16.0,66.7,209.0,3344.0,Alta
 ADO-00142,2024-03-10,Sunday,14:00,cdmx - puebla,Norte,OCC,42,,100.0,336.0,14112.0,Baja
 ADO-00095,2024/05/11,Saturday,17:00,CDMX-Tlaxcala,Observatorio,Primera Plus,36,34.0,94.4,288.0,9792.0,Baja
 ADO-01941,2024-05-11,Saturday,08:00,CDMX - Pachuca,TAPO,OCC,42,,100.0,190.0,7980.0,Baja
@@ -1861,7 +1861,7 @@ ADO-01102,02/02/2024,Friday,12:00,CDMX-Pachuca,Norte,OCC,42,12.0,28.6,190.0,2280
 ADO-01109,2024-09-13,Friday,22:00,cdmx - puebla,Sur,ADO GL,48,27.0,56.2,280.0,7560.0,Baja
 ADO-01926,2024/07/15,Monday,20:00,CDMX-Pachuca,Sur,Ejecutivo,24,12.0,50.0,180.5,2166.0,Alta
 ADO-00083,2024-03-19,Tuesday,12:00,CDMX - Pachuca,Sur,Ejecutivo,24,19.0,79.2,209.0,3971.0,Baja
-ADO-01482,2024-09-02,Monday,14:00,  CDMX-Pachuca  ,Sur,Ejecutivo,24,14.0,58.3,209.0,2926.0,Baja
+ADO-01482,2024-09-02,Monday,14:00,CDMX-Pachuca,Sur,Ejecutivo,24,14.0,58.3,209.0,2926.0,Baja
 ADO-02021,2024-04-12,Friday,08:00,CDMX-Cuernavaca,Poniente,OCC,42,33.0,78.6,220.0,7260.0,Baja
 ADO-00677,28/04/2024,Sunday,14:00,cdmx - puebla,Poniente,ADO GL,48,34.0,70.8,280.0,9520.0,Baja
 ADO-01589,2024-02-17,Saturday,16:00,CDMX-Toluca,Poniente,ADO GL,48,36.0,75.0,180.0,6480.0,Baja
@@ -1943,7 +1943,7 @@ ADO-01372,2024-06-04,Tuesday,20:00,CDMX-Queretaro,Norte,Primera Plus,36,30.0,83.
 ADO-01146,14-10-2024,Monday,20:00,CDMX - Toluca,TAPO,OCC,42,27.0,64.3,171.0,4617.0,Baja
 ADO-01032,14-08-2024,Wednesday,11:00,CDMX-Queretaro,Sur,OCC,42,18.0,42.9,320.0,5760.0,Alta
 ADO-00373,2024-12-23,Monday,19:00,CDMX-Pachuca,TAPO,Primera Plus,36,,97.2,190.0,6650.0,Alta
-ADO-00668,2024-06-18,Tuesday,20:00,  CDMX - Toluca  ,Norte,OCC,42,34.0,81.0,180.0,6120.0,Baja
+ADO-00668,2024-06-18,Tuesday,20:00,CDMX - Toluca,Norte,OCC,42,34.0,81.0,180.0,6120.0,Baja
 ADO-01432,2024-08-10,Saturday,18:00,CDMX - Puebla,TAPO,Primera Plus,36,36.0,100.0,280.0,10080.0,Alta
 ADO-02202,2024/11/20,Wednesday,15:00,cdmx-queretaro,Norte,Ejecutivo,24,15.0,62.5,384.0,5760.0,Baja
 ADO-00358,2024-04-07,Sunday,14:00,CDMX-Puebla,Observatorio,OCC,42,34.0,81.0,336.0,11424.0,Baja
@@ -1962,14 +1962,14 @@ ADO-01397,2024/09/24,Tuesday,06:00,CDMX-Tlaxcala,Observatorio,OCC,42,20.0,47.6,2
 ADO-01537,2024-12-30,Monday,08:00,CDMX-Tlaxcala,Poniente,Ejecutivo,24,20.0,83.3,228.0,4560.0,Alta
 ADO-02481,2024/06/06,Thursday,15:00,CDMX - Pachuca,TAPO,OCC,42,24.0,57.1,190.0,4560.0,Baja
 ADO-02293,2024/07/07,Sunday,21:00,CDMX - Toluca,Norte,Primera Plus,36,30.0,83.3,171.0,5130.0,Alta
-ADO-01550,2024-10-18,Friday,10:00,CDMX-Toluca,Sur,Primera Plus,36,0.0,77.8,171.0,4788.0,Baja
+ADO-01550,2024-10-18,Friday,10:00,CDMX-Toluca,Sur,Primera Plus,36,28.0,77.8,171.0,4788.0,Baja
 ADO-01329,2024-07-29,Monday,11:00,CDMX-Toluca,Poniente,Ejecutivo,24,12.0,50.0,216.0,2592.0,Alta
 ADO-01257,2024-03-04,Monday,17:00,CDMX - Toluca,Sur,Primera Plus,36,36.0,100.0,180.0,6480.0,Baja
 ADO-02180,2024-07-29,Monday,13:00,CDMX - Pachuca,Poniente,OCC,42,27.0,64.3,180.5,4873.5,Alta
 ADO-01426,2024-05-24,Friday,12:00,CDMX - Pachuca,TAPO,OCC,42,17.0,40.5,190.0,3230.0,Baja
 ADO-01465,30/01/2024,Tuesday,15:00,cdmx - puebla,TAPO,OCC,42,24.0,57.1,308.0,7392.0,Alta
 ADO-01556,2024/11/12,Tuesday,13:00,CDMX-Puebla,Poniente,OCC,42,29.0,69.0,266.0,7714.0,Baja
-ADO-02174,2024-07-17,Wednesday,09:00,  CDMX-Tlaxcala  ,TAPO,Primera Plus,36,29.0,80.6,288.0,8352.0,Alta
+ADO-02174,2024-07-17,Wednesday,09:00,CDMX-Tlaxcala,TAPO,Primera Plus,36,29.0,80.6,288.0,8352.0,Alta
 ADO-01251,2024-06-11,Tuesday,16:00,CDMX-Pachuca,Sur,ADO GL,48,33.0,68.8,190.0,6270.0,Baja
 ADO-01700,2024-08-14,Wednesday,16:00,CDMX - Pachuca,Sur,ADO GL,48,32.0,66.7,190.0,,Alta
 ADO-01253,20/12/2024,Friday,06:00,CDMX - Puebla,TAPO,OCC,42,17.0,40.5,280.0,4760.0,Alta
@@ -1996,7 +1996,7 @@ ADO-01393,08-04-2024,Monday,19:00,CDMX-Queretaro,Observatorio,OCC,42,42.0,100.0,
 ADO-01532,2024/04/25,Thursday,18:00,CDMX-Pachuca,Sur,Ejecutivo,24,14.0,58.3,190.0,2660.0,Baja
 ADO-01215,05-08-2024,Monday,08:00,CDMX-Toluca,TAPO,Ejecutivo,24,18.0,75.0,198.0,3564.0,Alta
 ADO-00505,2024-05-18,Saturday,06:00,CDMX - Puebla,Observatorio,ADO GL,48,37.0,77.1,280.0,,Baja
-ADO-02490,2024/05/06,Monday,16:00,  cdmx - puebla  ,Poniente,Primera Plus,36,15.0,41.7,266.0,-3990.0,Baja
+ADO-02490,2024/05/06,Monday,16:00,cdmx - puebla,Poniente,Primera Plus,36,15.0,41.7,266.0,-3990.0,Baja
 ADO-00348,2024-11-02,Saturday,07:00,CDMX-Pachuca,TAPO,Primera Plus,36,29.0,80.6,209.0,6061.0,Baja
 ADO-01997,2024-08-31,Saturday,09:00,CDMX-Querétaro,Observatorio,Primera Plus,36,35.0,97.2,352.0,12320.0,Alta
 ADO-00387,07/02/2024,Wednesday,14:00,cdmx - puebla,Sur,Primera Plus,36,24.0,66.7,266.0,6384.0,Baja
@@ -2018,12 +2018,12 @@ ADO-01475,2024-06-28,Friday,11:00,CDMX - Pachuca,Norte,OCC,42,23.0,54.8,190.0,43
 ADO-01150,14-12-2024,Saturday,18:00,cdmx - puebla,Observatorio,ADO GL,48,43.0,89.6,280.0,12040.0,Alta
 ADO-00039,2024-10-11,Friday,21:00,CDMX-Pachuca,Poniente,Primera Plus,36,17.0,47.2,190.0,3230.0,Baja
 ADO-01555,2024-05-19,Sunday,22:00,cdmx - puebla,Poniente,OCC,42,34.0,81.0,266.0,9044.0,Baja
-ADO-02405,2024-12-30,Monday,14:00,  CDMX-Cuernavaca  ,TAPO,Ejecutivo,24,20.0,83.3,264.0,5280.0,Alta
-ADO-00714,13/10/2024,Sunday,17:00,  CDMX-cuernavaca  ,Norte,ADO GL,48,48.0,100.0,220.0,10560.0,Baja
+ADO-02405,2024-12-30,Monday,14:00,CDMX-Cuernavaca,TAPO,Ejecutivo,24,20.0,83.3,264.0,5280.0,Alta
+ADO-00714,13/10/2024,Sunday,17:00,CDMX-cuernavaca,Norte,ADO GL,48,48.0,100.0,220.0,10560.0,Baja
 ADO-00091,16-06-2024,Sunday,18:00,cdmx-queretaro,Sur,ADO GL,48,48.0,100.0,320.0,15360.0,Baja
 ADO-00167,2024-03-13,Wednesday,13:00,CDMX-Tlaxcala,Observatorio,OCC,42,,73.8,240.0,7440.0,Baja
 ADO-01206,05-10-2024,Saturday,20:00,CDMX-cuernavaca,Sur,ADO GL,48,41.0,85.4,220.0,9020.0,Baja
-ADO-00876,2024-08-23,Friday,16:00,  CDMX-Cuernavaca  ,Sur,OCC,42,36.0,85.7,209.0,7524.0,Alta
+ADO-00876,2024-08-23,Friday,16:00,CDMX-Cuernavaca,Sur,OCC,42,36.0,85.7,209.0,7524.0,Alta
 ADO-00445,2024-08-07,Wednesday,10:00,CDMX-Querétaro,Poniente,ADO GL,48,23.0,47.9,320.0,7360.0,Alta
 ADO-01602,15-11-2024,Friday,09:00,CDMX-Cuernavaca,Observatorio,OCC,42,40.0,95.2,264.0,10560.0,Baja
 ADO-02310,2024-11-21,Thursday,07:00,CDMX-cuernavaca,TAPO,OCC,42,38.0,90.5,242.0,9196.0,Baja
@@ -2043,10 +2043,10 @@ ADO-01389,2024-07-22,Monday,15:00,CDMX - Pachuca,Poniente,Ejecutivo,24,15.0,62.5
 ADO-01520,02-09-2024,Monday,21:00,cdmx - puebla,Sur,Primera Plus,36,31.0,86.1,280.0,8680.0,Baja
 ADO-01672,2024-05-27,Monday,15:00,CDMX - Pachuca,TAPO,Ejecutivo,24,14.0,58.3,190.0,2660.0,Baja
 ADO-00339,2024-08-21,Wednesday,07:00,CDMX-cuernavaca,Norte,OCC,42,35.0,83.3,209.0,7315.0,Alta
-ADO-02286,2024-04-30,Tuesday,14:00,CDMX - Toluca,TAPO,ADO GL,48,0.0,68.8,171.0,5643.0,Baja
+ADO-02286,2024-04-30,Tuesday,14:00,CDMX - Toluca,TAPO,ADO GL,48,33.0,68.8,171.0,5643.0,Baja
 ADO-01189,2024-03-30,Saturday,07:00,CDMX-Cuernavaca,Norte,Ejecutivo,24,24.0,100.0,242.0,5808.0,Baja
 ADO-00029,2024-01-31,Wednesday,08:00,CDMX-Querétaro,Norte,Ejecutivo,24,17.0,70.8,320.0,5440.0,Alta
-ADO-01541,2024-11-04,Monday,16:00,  CDMX-Tlaxcala  ,Poniente,Primera Plus,36,23.0,63.9,264.0,6072.0,Baja
+ADO-01541,2024-11-04,Monday,16:00,CDMX-Tlaxcala,Poniente,Primera Plus,36,23.0,63.9,264.0,6072.0,Baja
 ADO-01218,2024-08-04,Sunday,21:00,CDMX - Toluca,Poniente,,42,37.0,88.1,180.0,6660.0,Alta
 ADO-01417,17/07/2024,Wednesday,16:00,CDMX-Toluca,Poniente,ADO GL,48,31.0,64.6,216.0,6696.0,Alta
 ADO-02113,2024-08-13,Tuesday,12:00,CDMX-Pachuca,TAPO,Primera Plus,36,,63.9,190.0,4370.0,Alta
@@ -2069,11 +2069,11 @@ ADO-02076,2024-11-21,Thursday,13:00,CDMX-Pachuca,Observatorio,Primera Plus,36,22
 ADO-00885,08-03-2024,Friday,07:00,CDMX-Querétaro,Sur,OCC,42,37.0,88.1,304.0,,Baja
 ADO-00144,2024/06/25,Tuesday,18:00,cdmx-queretaro,Norte,OCC,42,34.0,81.0,320.0,10880.0,Baja
 ADO-02473,2024-07-17,Wednesday,17:00,cdmx-queretaro,TAPO,Primera Plus,36,25.0,69.4,320.0,8000.0,Alta
-ADO-00851,2024-04-01,Monday,12:00,  CDMX - Toluca  ,TAPO,OCC,42,,57.1,180.0,4320.0,Baja
+ADO-00851,2024-04-01,Monday,12:00,CDMX - Toluca,TAPO,OCC,42,,57.1,180.0,4320.0,Baja
 ADO-00718,04-05-2024,Saturday,16:00,CDMX-Tlaxcala,Sur,OCC,42,36.0,85.7,288.0,10368.0,Baja
 ADO-02391,2024-05-07,Tuesday,07:00,CDMX - Puebla,Sur,Ejecutivo,24,13.0,54.2,280.0,3640.0,Baja
 ADO-00265,26/11/2024,Tuesday,17:00,cdmx-queretaro,Observatorio,OCC,42,32.0,76.2,320.0,,Baja
-ADO-00076,18-12-2024,Wednesday,09:00,  CDMX-Puebla  ,Poniente,OCC,42,37.0,88.1,280.0,10360.0,Alta
+ADO-00076,18-12-2024,Wednesday,09:00,CDMX-Puebla,Poniente,OCC,42,37.0,88.1,280.0,10360.0,Alta
 ADO-00396,2024-07-21,Sunday,18:00,cdmx-queretaro,Sur,ADO GL,48,45.0,93.8,320.0,14400.0,Alta
 ADO-02496,2024-03-04,Monday,19:00,CDMX - Pachuca,Observatorio,ADO GL,48,43.0,89.6,209.0,8987.0,Baja
 ADO-02355,2024-05-09,Thursday,18:00,cdmx - puebla,TAPO,OCC,42,39.0,92.9,280.0,10920.0,Baja
@@ -2095,7 +2095,7 @@ ADO-01123,2024-11-17,Sunday,16:00,CDMX-Queretaro,TAPO,Ejecutivo,24,22.0,91.7,320
 ADO-01893,11/02/2024,Sunday,13:00,CDMX - Pachuca,Poniente,ADO GL,48,38.0,79.2,180.5,6859.0,Baja
 ADO-00676,03/12/2024,Tuesday,21:00,CDMX - Puebla,TAPO,ADO GL,48,,54.2,280.0,7280.0,Alta
 ADO-00729,03/10/2024,Thursday,22:00,CDMX-Puebla,Sur,ADO GL,48,28.0,58.3,266.0,7448.0,Baja
-ADO-00413,2024/03/30,Saturday,11:00,  CDMX-Cuernavaca  ,Observatorio,ADO GL,48,,64.6,242.0,7502.0,Baja
+ADO-00413,2024/03/30,Saturday,11:00,CDMX-Cuernavaca,Observatorio,ADO GL,48,,64.6,242.0,7502.0,Baja
 ADO-01517,2024-10-25,Friday,18:00,cdmx - puebla,Observatorio,ADO GL,48,47.0,97.9,336.0,15792.0,Baja
 ADO-01650,2024-07-07,Sunday,06:00,CDMX-Cuernavaca,Norte,Ejecutivo,24,24.0,100.0,220.0,5280.0,Alta
 ADO-00826,2024-04-05,Friday,22:00,CDMX-Querétaro,Observatorio,OCC,42,34.0,81.0,304.0,10336.0,Baja
@@ -2124,7 +2124,7 @@ ADO-00896,23/12/2024,Monday,09:00,CDMX - Toluca,Norte,OCC,42,36.0,85.7,171.0,615
 ADO-00497,2024-11-26,Tuesday,14:00,cdmx - puebla,TAPO,Ejecutivo,24,12.0,50.0,280.0,3360.0,Baja
 ADO-01783,17-03-2024,Sunday,06:00,CDMX-cuernavaca,Observatorio,Ejecutivo,24,,66.7,220.0,3520.0,Baja
 ADO-00336,2024-10-15,Tuesday,07:00,cdmx - puebla,Observatorio,Primera Plus,36,28.0,77.8,336.0,9408.0,Baja
-ADO-00516,2024-10-14,Monday,17:00,  CDMX - Pachuca  ,Observatorio,Primera Plus,36,32.0,88.9,190.0,6080.0,Baja
+ADO-00516,2024-10-14,Monday,17:00,CDMX - Pachuca,Observatorio,Primera Plus,36,32.0,88.9,190.0,6080.0,Baja
 ADO-01349,2024/01/27,Saturday,06:00,CDMX-cuernavaca,Sur,Ejecutivo,24,16.0,66.7,220.0,3520.0,Alta
 ADO-01016,25/01/2024,Thursday,17:00,CDMX - Puebla,Sur,ADO GL,48,39.0,81.2,280.0,10920.0,Alta
 ADO-02363,2024-05-16,Thursday,17:00,CDMX-Cuernavaca,Poniente,Primera Plus,36,22.0,61.1,220.0,4840.0,Baja
@@ -2199,10 +2199,10 @@ ADO-01824,2024-07-19,Friday,17:00,CDMX-cuernavaca,Norte,OCC,42,30.0,71.4,220.0,6
 ADO-00834,2024-09-25,Wednesday,19:00,CDMX - Puebla,Observatorio,Primera Plus,36,25.0,69.4,280.0,7000.0,Baja
 ADO-01116,07-06-2024,Friday,17:00,CDMX-Pachuca,Observatorio,Ejecutivo,24,20.0,83.3,190.0,3800.0,Baja
 ADO-01167,24/01/2024,Wednesday,19:00,cdmx - puebla,Norte,ADO GL,48,46.0,95.8,336.0,15456.0,Alta
-ADO-01907,2024-07-10,Wednesday,16:00,  CDMX-cuernavaca  ,Sur,,42,19.0,45.2,220.0,4180.0,Alta
+ADO-01907,2024-07-10,Wednesday,16:00,CDMX-cuernavaca,Sur,,42,19.0,45.2,220.0,4180.0,Alta
 ADO-00972,04-01-2024,Thursday,08:00,CDMX - Puebla,Sur,ADO GL,48,34.0,70.8,266.0,,Alta
 ADO-00400,2024-07-20,Saturday,09:00,cdmx-queretaro,Observatorio,Primera Plus,36,36.0,100.0,384.0,,Alta
-ADO-00020,02-01-2024,Tuesday,14:00,  CDMX - Pachuca  ,Observatorio,Primera Plus,36,41.14013260689036,114.278146130251,190.0,3230.0,Alta
+ADO-00020,02-01-2024,Tuesday,14:00,CDMX - Pachuca,Observatorio,Primera Plus,36,22.1,47.2,190.0,3230.0,Alta
 ADO-00685,2024-09-03,Tuesday,21:00,CDMX-Pachuca,Poniente,OCC,42,21.0,50.0,228.0,4788.0,Baja
 ADO-00036,2024-10-08,Tuesday,07:00,cdmx - puebla,TAPO,Ejecutivo,24,15.0,62.5,280.0,4200.0,Baja
 ADO-02382,2024-08-11,Sunday,11:00,CDMX-Queretaro,Sur,Primera Plus,36,26.0,72.2,320.0,8320.0,Alta
@@ -2251,7 +2251,7 @@ ADO-02300,2024-02-27,Tuesday,07:00,CDMX-Cuernavaca,Observatorio,Ejecutivo,24,14.
 ADO-01505,2024-08-02,Friday,22:00,CDMX-Cuernavaca,Poniente,Ejecutivo,24,15.0,62.5,264.0,3960.0,Alta
 ADO-00960,30/10/2024,Wednesday,21:00,CDMX-Querétaro,TAPO,OCC,42,29.0,69.0,384.0,11136.0,Baja
 ADO-00798,2024-10-06,Sunday,18:00,CDMX-Querétaro,Norte,ADO GL,48,48.0,100.0,352.0,16896.0,Baja
-ADO-00226,2024-07-16,Tuesday,14:00,  CDMX-Queretaro  ,Norte,Primera Plus,36,28.0,77.8,320.0,8960.0,Alta
+ADO-00226,2024-07-16,Tuesday,14:00,CDMX-Queretaro,Norte,Primera Plus,36,28.0,77.8,320.0,8960.0,Alta
 ADO-02075,21/12/2024,Saturday,11:00,CDMX-Cuernavaca,Poniente,ADO GL,48,37.0,77.1,220.0,8140.0,Alta
 ADO-01800,17/08/2024,Saturday,20:00,CDMX-Toluca,Norte,OCC,42,35.0,83.3,198.0,6930.0,Alta
 ADO-02489,2024/07/26,Friday,09:00,CDMX-Cuernavaca,Poniente,ADO GL,48,,79.2,264.0,10032.0,Alta
@@ -2334,7 +2334,7 @@ ADO-00198,2024-06-07,Friday,17:00,cdmx-queretaro,Poniente,Ejecutivo,24,19.0,79.2
 ADO-02328,2024-03-11,Monday,06:00,cdmx - puebla,TAPO,Primera Plus,36,21.0,58.3,336.0,7056.0,Baja
 ADO-00294,30-11-2024,Saturday,21:00,CDMX-Pachuca,Observatorio,ADO GL,48,45.0,93.8,190.0,8550.0,Baja
 ADO-00767,17/01/2024,Wednesday,08:00,cdmx-queretaro,TAPO,Primera Plus,36,28.0,77.8,320.0,8960.0,Alta
-ADO-00401,08-10-2024,Tuesday,20:00,  CDMX-Puebla  ,Sur,Primera Plus,36,16.0,44.4,280.0,4480.0,Baja
+ADO-00401,08-10-2024,Tuesday,20:00,CDMX-Puebla,Sur,Primera Plus,36,16.0,44.4,280.0,4480.0,Baja
 ADO-00123,2024-08-28,Wednesday,07:00,CDMX-Queretaro,Norte,Primera Plus,36,34.0,94.4,304.0,10336.0,Alta
 ADO-00203,2024-11-06,Wednesday,19:00,CDMX - Toluca,Poniente,ADO GL,48,44.0,91.7,216.0,9504.0,Baja
 ADO-00836,2024/06/12,Wednesday,19:00,CDMX-Toluca,Sur,ADO GL,48,39.0,81.2,171.0,6669.0,Baja
@@ -2392,7 +2392,7 @@ ADO-01598,2024-06-29,Saturday,19:00,CDMX-Cuernavaca,TAPO,ADO GL,48,48.0,100.0,22
 ADO-01820,2024-02-15,Thursday,12:00,CDMX-Cuernavaca,Sur,Ejecutivo,24,12.0,50.0,220.0,2640.0,Baja
 ADO-01723,2024-11-06,Wednesday,11:00,CDMX-Pachuca,Poniente,ADO GL,48,35.0,72.9,180.5,6317.5,Baja
 ADO-01184,16/12/2024,Monday,20:00,cdmx-queretaro,Norte,Primera Plus,36,16.0,44.4,304.0,4864.0,Alta
-ADO-01060,09/11/2024,Saturday,22:00,  CDMX-Querétaro  ,TAPO,Ejecutivo,24,19.0,79.2,384.0,7296.0,Baja
+ADO-01060,09/11/2024,Saturday,22:00,CDMX-Querétaro,TAPO,Ejecutivo,24,19.0,79.2,384.0,7296.0,Baja
 ADO-00541,04-02-2024,Sunday,18:00,cdmx - puebla,Observatorio,OCC,42,42.0,100.0,280.0,11760.0,Baja
 ADO-01679,20/06/2024,Thursday,21:00,CDMX - Toluca,Observatorio,ADO GL,48,36.0,75.0,180.0,,Baja
 ADO-02426,26-07-2024,Friday,13:00,CDMX-Toluca,Poniente,ADO GL,48,34.0,70.8,216.0,7344.0,Alta
@@ -2476,7 +2476,7 @@ ADO-02140,20/03/2024,Wednesday,16:00,CDMX-cuernavaca,Observatorio,OCC,42,19.0,45
 ADO-01364,02/11/2024,Saturday,16:00,CDMX - Toluca,Norte,Primera Plus,36,26.0,72.2,180.0,4680.0,Baja
 ADO-02042,21/09/2024,Saturday,11:00,cdmx - puebla,TAPO,Primera Plus,36,28.0,77.8,308.0,8624.0,Baja
 ADO-00242,2024/11/28,Thursday,10:00,cdmx-queretaro,TAPO,Primera Plus,36,,61.1,320.0,7040.0,Baja
-ADO-02062,23/02/2024,Friday,13:00,  CDMX-Querétaro  ,Poniente,ADO GL,48,30.0,62.5,304.0,9120.0,Baja
+ADO-02062,23/02/2024,Friday,13:00,CDMX-Querétaro,Poniente,ADO GL,48,30.0,62.5,304.0,9120.0,Baja
 ADO-02364,2024-06-11,Tuesday,13:00,CDMX-Tlaxcala,Sur,Primera Plus,36,28.0,77.8,240.0,6720.0,Baja
 ADO-00601,2024-03-26,Tuesday,10:00,cdmx - puebla,Poniente,Ejecutivo,24,17.0,70.8,280.0,4760.0,Baja
 ADO-02436,2024-12-21,Saturday,20:00,CDMX - Toluca,Observatorio,ADO GL,48,38.0,79.2,180.0,6840.0,Alta
@@ -2494,7 +2494,7 @@ ADO-00976,12/10/2024,Saturday,12:00,CDMX-Querétaro,Observatorio,Ejecutivo,24,14
 ADO-02048,2024-06-14,Friday,10:00,CDMX-Puebla,Poniente,Primera Plus,36,,63.9,336.0,,Baja
 ADO-01083,2024-08-28,Wednesday,11:00,CDMX - Toluca,Sur,Ejecutivo,24,14.0,58.3,180.0,2520.0,Alta
 ADO-00475,2024/01/07,Sunday,07:00,CDMX-Querétaro,Norte,OCC,42,42.0,100.0,352.0,14784.0,Alta
-ADO-00748,2024-02-22,Thursday,08:00,  cdmx - puebla  ,Observatorio,,42,29.0,69.0,280.0,8120.0,Baja
+ADO-00748,2024-02-22,Thursday,08:00,cdmx - puebla,Observatorio,,42,29.0,69.0,280.0,8120.0,Baja
 ADO-02301,2024-10-08,Tuesday,11:00,CDMX-Pachuca,Norte,Primera Plus,36,27.0,75.0,209.0,5643.0,Baja
 ADO-00022,2024-10-03,Thursday,22:00,CDMX-Tlaxcala,Observatorio,Ejecutivo,24,14.0,58.3,240.0,3360.0,Baja
 ADO-00460,11/06/2024,Tuesday,18:00,CDMX - Puebla,Norte,OCC,42,27.0,64.3,336.0,9072.0,Baja
